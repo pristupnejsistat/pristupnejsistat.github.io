@@ -1,0 +1,23 @@
+{
+  "name": "pristupnejsistat.github.io",
+  "version": "1.0.0",
+  "description": "Website for projet pristupnejsistat.cz",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "run": "bundle exec jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pristupnejsistat/pristupnejsistat.github.io.git"
+  },
+  "author": "evanek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pristupnejsistat/pristupnejsistat.github.io/issues"
+  },
+  "homepage": "https://github.com/pristupnejsistat/pristupnejsistat.github.io#readme",
+  "dependencies": {
+    
+  }
+}

@@ -2,5 +2,23 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: mylayout
 ---
+
+{% include banner.html %}
+
+{% include claim.html %}
+
+{% include cooperation.html %}
+
+{% include methods.html %}
+
+{% include inspiration.html %}
+
+{% include team.html %}
+
+{% include contact.html %}
+
+{% include references.html %}
+
+{% include blog.html %}
