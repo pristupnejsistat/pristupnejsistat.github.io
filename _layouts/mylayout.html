@@ -15,12 +15,14 @@
   <link rel="canonical" href="http://localhost:4000/">
   <link rel="alternate" type="application/rss+xml" title="Your awesome title" href="/feed.xml">
 
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Titillium+Web:700" rel="stylesheet">
+
 </head>
 
 
   <body>
 
-    <div id="wrapper" data-sticky-container>
+    <div id="wrapper" class="sticky-nav-container" data-sticky-container>
 
       {% include navigation.html %}
 
@@ -40,8 +42,9 @@
 
     $(document).foundation();
 
-    new Foundation.Sticky($('.title-bar'));
+    //new Foundation.Sticky($('nav'));
 
+    var elem = new Foundation.Sticky($('.sticky'));
     </script>
 
   </body>

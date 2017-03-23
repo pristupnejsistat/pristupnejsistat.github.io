@@ -129,6 +129,28 @@ em{
 
 }
 
+/*nav{
+  position: fixed;
+  top: 0;
+  height: 2em;
+  background-color: white;
+
+}*/
+
+#wrapper{
+  //padding-top: 2em;
+}
+
+nav{
+  padding: .5rem;
+}
+
+.menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
 #featured-methods{
   @media (max-width: 40em){
     flex-direction: column;
@@ -142,6 +164,12 @@ em{
   }
 }
 
+.team-header{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:space-around;
+}
+
 .bigger{
   font-size: 1.25rem;
 }
@@ -149,6 +177,65 @@ em{
 #govuk-logo{
   max-width: 7rem;
   max-height: 7rem;
+}
+
+.team-member{
+  //background-color: pink;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.team-members, .team-members div{
+  padding: 0;
+}
+
+.team-member{
+  padding: .5rem;
+  margin-bottom: 1rem;
+  border-top: 1px dashed rgba(0, 0, 0, 0.25);
+}
+
+ .clipped{
+   -webkit-clip-path: circle(50% at 50% 50%);
+   clip-path: circle(50% at 50% 50%);
+   width: 100%;
+ }
+
+nav{
+  font-family: 'Open Sans', sans-serif;
+}
+
+$pink-color: pink;
+
+h1{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+  color: $pink-color;
+}
+
+ //navigation open-sans
+ // header bud titilium web, riznejsi open sans, noto sans, maven pro
+ //h2 uzky open-sans
+ //
+
+.team-header{
+  width: 100%;
+  align-items: center;
+  margin: 1rem;
+}
+
+.icons{
+  display: flex;
+  //flex-direction: row;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.icon{
+  max-width: 3em;
+  //max-height: 3em;
 }
 
 #contact{
