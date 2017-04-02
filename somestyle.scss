@@ -9,14 +9,10 @@
 }
 
 .border{
-  border: 1px solid red;
+  border: 1px solid orange;
 }
 
-.team-members{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
+
 
 body{
   color: rgba(0, 0, 0, 0.625);
@@ -102,7 +98,7 @@ em{
   flex-direction: column;
 }
 
-.quote-block em::before, .quote-block em::after{
+.quote::before, .quote::after{
   content: '"';
 }
 
@@ -146,6 +142,88 @@ a{
   display: flex;
   margin-top: .5rem;
 
+}
+
+#references-wrapper{
+  display: flex;
+  flex-direction: row;
+}
+
+#references{
+  display: flex;
+  flex-direction: row;
+
+  @media (max-width: 64em){
+    flex-direction: column;
+  }
+
+}
+
+.contact-claim{
+  display: flex;
+  align-items: center;
+}
+
+.reference{
+  display: flex;
+  flex-direction: column;
+
+  @media (max-width: 64em){
+    flex-direction: row;
+  }
+
+  @media (max-width: 40em){
+    flex-direction: column;
+  }
+}
+
+.reference-header{
+  display: flex;
+
+@media (max-width: 64em){ 
+    flex-direction: column;
+    align-items: center;
+  }   
+
+  @media (max-width: 40em){
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  @media (min-width: 65em){
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+}
+
+.reference-header img{
+  @media (max-width: 40em){
+    width: 25%;
+    height: 25%;
+  }
+  
+}
+
+.reference-author{
+  @media (max-width: 40em){
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+}
+
+.reference-content{
+  display: flex;
+  flex-shrink: 5;
+  text-align: left;
+@media (max-width: 64em){ 
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 
 /*nav{
@@ -194,27 +272,14 @@ nav{
   max-height: 7rem;
 }
 
-.team-member{
-  display: flex;
-  flex-flow: row wrap;
-  align-items: center;
-  justify-content: center;
-}
 
-.team-members, .team-members div{
-  padding: 0;
-}
-
-.team-member{
-  padding: .5rem;
-  margin-bottom: 1rem;
-  border-top: 1px dashed rgba(0, 0, 0, 0.25);
-}
-
- .clipped{
+.clipped{
    -webkit-clip-path: circle(50% at 50% 50%);
    clip-path: circle(50% at 50% 50%);
-   width: 100%;
+   max-width: 10rem;
+   @media (max-width: 64em){
+    width: 50%;
+   }
  }
 
 nav{
@@ -229,22 +294,58 @@ $pink-color: pink;
  //h2 uzky open-sans
  //
 
+#team{
+  display: flex;
+  flex-direction: row;
+  @media (max-width: 40em){
+    flex-direction: column;
+  }
+}
+
+.team-member{
+  display: flex;
+  flex-direction: column;
+  @media (max-width: 40em){
+    flex-direction: row;
+  }
+}
+
+
+.member-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.member-photo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  @media (max-width: 40em){
+    width: 33%;
+  }
+}
+
+.member-photo img{
+  max-width: 10rem;
+  max-height: 10rem;
+}
+
+.icons{
+  display: flex;
+  justify-content: space-around;
+}
+
 .team-header{
   width: 100%;
   align-items: center;
   margin: 1rem;
 }
 
-.icons{
-  display: flex;
-  //flex-direction: row;
-  // flex-flow: row wrap;
-  justify-content: space-around;
-}
-
 .icon{
-  max-width: 3em;
-  //max-height: 3em;
+  max-width: 2em;
 }
 
 .reference-wrapper{
@@ -268,8 +369,13 @@ $pink-color: pink;
 
 #contact{
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  // flex-direction: column;
+  // align-items: center;
+
+  @media (max-width: 40em){
+    flex-direction: row;
+   }
+
 }
 
 .method, .reference{

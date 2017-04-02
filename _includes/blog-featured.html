@@ -1,0 +1,11 @@
+<div id="blog" class="row">
+  <h2>Nejnovější příspěvky na našem blogu</h2>
+  <span>...</span>
+
+  {% for post in paginator.posts %}
+
+  <span><a href="{{post.url}}">{{post.title}} - {{post.date}}</a></span>
+
+	{% endfor %}
+
+</div>
