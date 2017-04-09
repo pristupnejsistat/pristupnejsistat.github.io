@@ -24,20 +24,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-permalink: /:year/:month/:day/:title.html
+permalink: /blog/:title.html
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-  # - jekyll-paginate
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
 
-paginate: 5
+paginate: 2
 paginate_path: "/blog/page:num/"
+destination: _site/blog
 
 defaults:
   -
