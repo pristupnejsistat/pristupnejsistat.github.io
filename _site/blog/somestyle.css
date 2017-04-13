@@ -270,3 +270,25 @@ nav {
 
 .method img {
   margin: .5rem; }
+
+.blogs, .blog-preview {
+  display: flex;
+  flex-direction: row; }
+
+.pagination-content {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .pagination-content span {
+    margin: 0; }
+
+.pagination {
+  display: flex;
+  flex-direction: column; }
+  .pagination a {
+    display: inline;
+    color: orange; }
+
+.blog-preview-bottom {
+  display: flex;
+  justify-content: space-between; }

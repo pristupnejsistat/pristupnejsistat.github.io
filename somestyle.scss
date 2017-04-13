@@ -180,10 +180,10 @@ a{
 .reference-header{
   display: flex;
 
-@media (max-width: 64em){ 
+@media (max-width: 64em){
     flex-direction: column;
     align-items: center;
-  }   
+  }
 
   @media (max-width: 40em){
     flex-direction: row;
@@ -204,7 +204,7 @@ a{
     width: 25%;
     height: 25%;
   }
-  
+
 }
 
 .reference-author{
@@ -213,14 +213,14 @@ a{
     justify-content: center;
     flex-direction: column;
   }
-  
+
 }
 
 .reference-content{
   display: flex;
   flex-shrink: 5;
   text-align: left;
-@media (max-width: 64em){ 
+@media (max-width: 64em){
     flex-direction: column;
     justify-content: center;
   }
@@ -386,4 +386,36 @@ $pink-color: pink;
 
 .method img{
   margin: .5rem;
+}
+
+.blogs, .blog-preview{
+  display: flex;
+  flex-direction: row;
+}
+
+.pagination-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  span{
+    margin: 0;
+  }
+
+}
+
+.pagination{
+  display: flex;
+  flex-direction: column;
+
+  a{
+      display: inline;
+      color: orange;
+  }
+
+}
+
+.blog-preview-bottom{
+  display: flex;
+  justify-content: space-between;
 }
