@@ -19,28 +19,18 @@
   </div>
 
   <div id="featured-methods" class="column">
+
+    {% for value in site.data.values %}
+
     <div class="method column small-12 medium-4">
-      <img src="img/speed.png"/>
+      <img src="{{value.icon}}"/>
       <div>
-        <h3>Důraz na participaci</h3>
-        <span>Při realizaci projektů dbáme na účinnou a dluhodobou spolupráci všech účastněných stran.</span>
+        <h3>{{value.name}}</h3>
+        <span>{{value.text}}</span>
       </div>
     </div>
 
-    <div class="method column small-12 medium-4">
-      <img src="img/user.png"/>
-      <div>
-        <h3>Zaměření na uživatele</h3>
-        <span>Služby mají odpovídat potřebám uživatelů. Jedině tak zajistíme, že jsou smysluplné, použitelné a dlouhodobě udržitelné.</span>
-      </div>
-    </div>
+    {% endfor %}
 
-    <div class="method column small-12 medium-4">
-      <img src="img/wheel.png"/>
-        <div>
-          <h3>Úspora času a peněz</h3>
-          <span>Díky kontinuálnímu testování v různých fázích projektu dokážeme předejít mnoha omylům. Prostředky jsou vynaloženy efektivně. Cesta k cíli je nejkratší možná.</span>
-        </div>
-    </div>
   </div>
 </div>

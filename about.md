@@ -1,5 +1,7 @@
 ---
 layout: mylayout
 title: About
-permalink: /about/
+permalink: /diky-za-zpravu
 ---
+
+<label>Bardzo diky</label>

@@ -47,6 +47,31 @@
     // var elem = new Foundation.Sticky($('.sticky'));
     </script>
 
+    <script type="text/javascript">
+    function submitForm() {
+      console.log('heeeere');
+      var frm = $('#input-form');
+          frm.submit(function (ev) {
+            console.log('even here')
+              $.ajax({
+                  type: 'POST',
+                  url: 'https://www.formingo.co/submit/info@pristupnejsistat.cz',
+                  data: frm.serialize(),
+                  success: function (data) {
+                      alert('ok');
+                  },
+                  error: function (data) {
+                    alert('error')
+                  }
+              });
+
+              ev.preventDefault();
+          });
+    }
+
+    </script>
+
+
   </body>
 
 </html>

@@ -22,7 +22,7 @@
           <img src="img/team/team-photo.png"/>
           <h3>Lucia Barthová</h3>
         </div>
-      
+
       <div class="icons">
         <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/email/email-128.png"/></a>
         <a href="https://twitter.com/luciabarthova"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/twitter/twitter-128.png"/></a>
@@ -74,67 +74,23 @@
 
  <div id="team" class="row column">
 
-  
-   <div class="team-member small-12 medium-4 columns">
-    <div class="member-photo">
-      <img src="img/team/team-photo.png"  />  
-    </div>
-    
-    <div class="member-info">
-      <h3>Lucia Barthová</h3>
-      <div class="icons">
-        <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/email/email-128.png"/></a>
-        <a href="https://twitter.com/luciabarthova"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/twitter/twitter-128.png"/></a>
-        <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/linkedin/linkedin-128.png"/></a>
-      </div>
-    </div>
-   </div>
 
-  
- 
+{% for member in site.data.members %}
+
 <div class="team-member small-12 medium-4 columns">
-    <div class="member-photo">
-      <img src="img/team/team-photo.png"  />  
-    </div>
-    
-    <div class="member-info">
-      <h3>Lucia Barthová</h3>
-      <div class="icons">
-        <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/email/email-128.png"/></a>
-        <a href="https://twitter.com/luciabarthova"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/twitter/twitter-128.png"/></a>
-        <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/linkedin/linkedin-128.png"/></a>
-      </div>
-    </div>
-   </div>
+ <div class="member-photo">
+   <img src="img/team/team-photo.png"  />
+ </div>
 
-   <div class="team-member small-12 medium-4 columns">
-    <div class="member-photo">
-      <img src="img/team/team-photo.png"  />  
-    </div>
-    
-    <div class="member-info">
-      <h3>Lucia Barthová</h3>
-      <div class="icons">
-        <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/email/email-128.png"/></a>
-        <a href="https://twitter.com/luciabarthova"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/twitter/twitter-128.png"/></a>
-        <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/linkedin/linkedin-128.png"/></a>
-      </div>
-    </div>
+ <div class="member-info">
+   <h3>{{member.name}}</h3>
+   <div class="icons">
+     <a href="mailto:{{member.mail}}"><img class="social-icon" alt="{{member.name}} - email" src="img/simple-icons/icons/email/email-128.png"/></a>
+     <a href="{{member.twitter}}"><img class="social-icon" alt="{{member.name}} - Twitter" src="img/simple-icons/icons/twitter/twitter-128.png"/></a>
+     <a href="{{member.linkedin}}"><img class="social-icon" alt="{{member.name}} - LinkedIn" src="img/simple-icons/icons/linkedin/linkedin-128.png"/></a>
    </div>
-
-   <div class="team-member small-12 medium-4 columns">
-    <div class="member-photo">
-      <img src="img/team/team-photo.png"  />  
-    </div>
-    
-    <div class="member-info">
-      <h3>Lucia Barthová</h3>
-      <div class="icons">
-        <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/email/email-128.png"/></a>
-        <a href="https://twitter.com/luciabarthova"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/twitter/twitter-128.png"/></a>
-        <a href="mailto:lucia@pristupnejsistat.cz"><img class="social-icon" alt="Lucia Barthová" src="img/simple-icons/icons/linkedin/linkedin-128.png"/></a>
-      </div>
-    </div>
-   </div>
+ </div>
+</div>
+{% endfor %}
 
  </div>
