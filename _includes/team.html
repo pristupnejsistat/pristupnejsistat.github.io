@@ -2,9 +2,10 @@
 <div id="team" class="row column">
 <h2>Členové týmu</h2>
 
+<div class="team-members">
 {% for member in site.data.members %}
 
-<div class="team-member small-12 medium-4 columns">
+<div class="team-member small-12 medium-6 large-3 columns">
  <div class="member-photo">
    <img src="img/team/team-photo.png"  />
  </div>
@@ -12,12 +13,13 @@
  <div class="member-info">
    <h3>{{member.name}}</h3>
    <div class="icons">
-     <a href="mailto:{{member.mail}}"><img class="social-icon" alt="{{member.name}} - email" src="img/simple-icons/icons/email/email-128.png"/></a>
-     <a href="{{member.twitter}}"><img class="social-icon" alt="{{member.name}} - Twitter" src="img/simple-icons/icons/twitter/twitter-128.png"/></a>
-     <a href="{{member.linkedin}}"><img class="social-icon" alt="{{member.name}} - LinkedIn" src="img/simple-icons/icons/linkedin/linkedin-128.png"/></a>
+     <a href="mailto:{{member.mail}}"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+     <a href="{{member.twitter}}"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
+     <a href="{{member.linkedin}}"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
    </div>
  </div>
 </div>
 {% endfor %}
+</div>
 
  </div>

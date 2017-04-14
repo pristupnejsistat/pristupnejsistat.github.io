@@ -4,41 +4,98 @@
 
 // Add your styles here
 
+
+$pink-color: pink;
+$dark-color: #444;
+$white-color: #eee;
+$brighter-white-color: white;
+$primary-color: #15a;
+
+*{
+  padding: 0;
+  margin: 0;
+  color: $dark-color;
+}
+
 .row{
-  border: 1px solid orange;
+
+  padding: 3rem 0;
+
+  @media (max-width: 64em){
+    padding: 1.5rem 0;
+  }
+
+  @media (max-width: 40em){
+    padding: 1rem 0;
+  }
+
+  >h2{
+    padding: 1rem;
+  }
+
 }
 
-.border{
-  border: 1px solid orange;
+.reference{
+
+  padding: 0 2rem;
+
+  @media (max-width: 64em){
+    padding: 0 1rem;
+  }
+
+  @media (max-width: 40em){
+    padding: 0 .5rem;
+  }
 }
 
 
+.menu{
 
-body{
-  color: rgba(0, 0, 0, 0.625);
+  padding: 1rem;
+
+  @media (max-width: 40em){
+    padding: .5rem;
+  }
+
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
 }
+//
+// body{
+//   color: rgba(0, 0, 0, 0.625);
+// }
 
 span{
   display: inline-block;
-  margin-bottom: .5rem;
+}
+
+a, strong{
+  font-weight: 700;
 }
 
 header{
-  /*width: 100%;
-  height: 300px;*/
+
   min-height: 30vh;
+
+  @media (max-width: 40em){
+    min-height: 24vh;
+  }
+
+  @media (max-width: 20em){
+    min-height: 18vh;
+  }
+
   width: 100%;
 
   background: linear-gradient(
     rgba(0,0,0,0.5),
     rgba(0,0,0,0.5)
   ),
+
   url('/img/banner.png');
   background-size: cover;
-  //position: absolute;
-  /*top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);*/
   color: white;
   text-align: center;
   display: flex !important;
@@ -62,6 +119,10 @@ h1{
   justify-content: center;
 }
 
+#claim em{
+  margin: .5rem;
+}
+
 #inspiration-quote{
   display: flex;
   flex-direction: row;
@@ -73,19 +134,15 @@ h1{
 }
 
 h2{
-  font-size: 1.25rem;
-  margin: .5rem;
   color: rgba(0,0,0,0.75);
 }
 
 em{
   font-weight: 700;
-  margin: .5rem;
   display: inline-block;
 }
 
 .quote-author, .quote-venue{
-  margin: .5rem;
   text-align: right;
 }
 
@@ -102,35 +159,22 @@ em{
   content: '"';
 }
 
-.column{
-  padding: 0 .25rem;
-}
 
 a{
   text-decoration: none;
-
   transition: .25 all;
 
-  &:hover, &:active{
-    background-color: pink;
-    transition: .25 all;
-  }
 }
 
-.primary{
-  // padding: .5rem;
-
-  // &a
-
-}
 
 .primary .quote{
   font-size: 1rem;
+  color: $white-color;
 }
 
-.primary, .primary strong{
-  color: white;
-  background-color: #0951a2;
+.primary, .primary strong, .primary span{
+  color: $white-color;
+  background-color: $primary-color;
 }
 
 .primary strong{
@@ -138,15 +182,38 @@ a{
   text-decoration-color: rgba(0,0,0,0.75);
 }
 
+.primary a{
+  text-decoration: none;
+   border: 2px dotted $brighter-white-color;
+  //  border-top: 3px dotted $white-color;
+   padding: 2px;
+   margin: 2px;
+}
+
+.primary strong{
+  color: $brighter-white-color;
+}
+
 #featured-methods, #references-wrapper{
   display: flex;
-  margin-top: .5rem;
+}
 
+#featured-methods{
+  padding-top: 3rem;
+
+  @media (max-width: 40em){
+    padding-top: 1.5rem;
+  }
+
+  @media (max-width: 20em){
+    padding-top: 1rem;
+  }
 }
 
 #references-wrapper{
   display: flex;
   flex-direction: row;
+  padding: 0 1rem;
 }
 
 #references{
@@ -162,6 +229,10 @@ a{
 .contact-claim{
   display: flex;
   align-items: center;
+
+  @media (max-width: 40em){
+    margin-bottom: 1rem;
+  }
 }
 
 .reference{
@@ -179,6 +250,7 @@ a{
 
 .reference-header{
   display: flex;
+  padding: 1rem;
 
 @media (max-width: 64em){
     flex-direction: column;
@@ -218,34 +290,13 @@ a{
 
 .reference-content{
   display: flex;
+  padding: 1rem;
   flex-shrink: 5;
   text-align: left;
 @media (max-width: 64em){
     flex-direction: column;
     justify-content: center;
   }
-}
-
-/*nav{
-  position: fixed;
-  top: 0;
-  height: 2em;
-  background-color: white;
-
-}*/
-
-#wrapper{
-  //padding-top: 2em;
-}
-
-nav{
-  padding: .5rem;
-}
-
-.menu{
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
 }
 
 #featured-methods{
@@ -286,9 +337,6 @@ nav{
   font-family: 'Open Sans', sans-serif;
 }
 
-$pink-color: pink;
-
-
  //navigation open-sans
  // header bud titilium web, riznejsi open sans, noto sans, maven pro
  //h2 uzky open-sans
@@ -302,10 +350,22 @@ $pink-color: pink;
   }
 }
 
+.team-members{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  @media (max-width: 40em){
+    flex-direction: column;
+  }
+  width: 100%;
+}
+
 .team-member{
   display: flex;
   flex-direction: column;
   @media (max-width: 40em){
+    margin: 1rem;
     flex-direction: row;
   }
 }
@@ -338,10 +398,54 @@ $pink-color: pink;
   justify-content: space-around;
 }
 
+.icons a{
+  display: block;
+  width: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover{
+    text-decoration: none;
+
+    &.fa-envelope{
+      color: orange;
+    }
+
+  }
+
+}
+
+// Hex:
+
+// <a href="mailto:{{member.mail}}"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
+// <a href="{{member.twitter}}"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i></a>
+// <a href="{{member.linkedin}}"><i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i>
+
+.fa{
+  color: $dark-color;
+  transition: .25s all;
+
+  &:hover{
+
+    &.fa-envelope{
+      color: #888;
+    }
+
+    &.fa-twitter-square{
+      color: #0084b4;
+    }
+
+    &.fa-linkedin-square{
+      color: #007bb6;
+    }
+
+  }
+}
+
 .team-header{
   width: 100%;
   align-items: center;
-  margin: 1rem;
 }
 
 .icon{
@@ -359,6 +463,10 @@ $pink-color: pink;
 
   input, textarea{
     width: 100%;
+  }
+
+  textarea{
+    height: 6rem;
   }
 
   .button{
@@ -379,13 +487,7 @@ $pink-color: pink;
 }
 
 .method, .reference{
-  margin: 0;
-  padding: 0;
   text-align: center;
-}
-
-.method img{
-  margin: .5rem;
 }
 
 .blogs, .blog-preview{
@@ -393,15 +495,14 @@ $pink-color: pink;
   flex-direction: row;
 }
 
+.blogs{
+  flex-direction: column;
+}
+
 .pagination-content{
   display: flex;
   justify-content: center;
   align-items: center;
-
-  span{
-    margin: 0;
-  }
-
 }
 
 .pagination{
@@ -418,4 +519,8 @@ $pink-color: pink;
 .blog-preview-bottom{
   display: flex;
   justify-content: space-between;
+}
+
+.blog-preview{
+  flex-direction: column;
 }
