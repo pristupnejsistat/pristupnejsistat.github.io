@@ -1,6 +1,6 @@
 ---
-layout: mylayout
-title:  "Welcome to Jekyll 06!"
+layout: post
+title:  "HUGE 06"
 date:   2016-06-16 20:08:21 +0200
 categories: jekyll update
 ---

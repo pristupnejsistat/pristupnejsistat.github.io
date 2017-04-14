@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Přístupnější stát - www.pristupnejsistat.cz - Lepší informační služby pro města a obce</title>
+  <title>{{site.title}}</title>
   <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
 
   <link rel="stylesheet" href="/assets/main.css">
@@ -24,77 +24,17 @@
 
     <div id="wrapper" class="sticky-nav-container" data-sticky-container>
 
-      
-<nav>
-    <ul class="horizontal menu row">
-      <li><a href="/">Projekt</a></li>
-      <li><a href="/blog/">Blog</a></li>
-      <li><a href="/kontakt">Kontakt</a></li>
-    </ul>
-</nav>
+      {% include navigation.html %}
 
+      {% include banner.html %}
 
-      <header class="column row">
-  <h1>Lepší informační služby pro města a obce</h1>
-</header>
+      {% include blog-header.html %}
 
+      <div class="row column blog-text">
+        {{content}}
+      </div>
 
-      <header class="column row">
-  <h1>Lepší informační služby pro města a obce</h1>
-</header>
-
-
-<div id="blog" class="row column">
-  <h2>Nejnovější příspěvky na našem blogu</h2>
-
-  <div class="blogs">
-
-
-  
-
-  </div>
-
-  <div class="pagination">
-
-    <div class="pagination-content">
-      Strana
-        <a href="/blog/">1</a>..
-
-      
-
-      
-
-      <span></span>
-
-      
-
-
-
-      
-    </div>
-
-  </div>
-
-</div>
-
-
-
-
-
-<!-- Pagination links -->
-<div class="pagination">
-  
-    <span class="previous">Previous</span>
-  
-  <span class="page_number ">Page:  of </span>
-  
-    <span class="next ">Next</span>
-  
-</div>
-
-
-      <div id="footer"></div>
-
+      {% include footer.html %}
 
     </div>
 

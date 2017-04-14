@@ -499,6 +499,31 @@ nav{
   flex-direction: column;
 }
 
+.blog-text{
+  padding:1rem;
+  padding-bottom: 0;
+  order: 2;
+  @media (max-width: 40em){
+    order: 1;
+  }
+}
+
+.blog-header{
+  padding-top: 3rem;
+  order: 1;
+
+  @media (max-width: 64em){
+    padding: 1.5rem;
+  }
+
+  @media (max-width: 40em){
+    padding: 1rem;
+    order: 2;
+  }
+
+  padding-bottom: 1rem;
+}
+
 .pagination-content{
   display: flex;
   justify-content: center;
@@ -511,7 +536,7 @@ nav{
 
   a{
       display: inline;
-      color: orange;
+      text-decoration: underline;
   }
 
 }
@@ -522,5 +547,6 @@ nav{
 }
 
 .blog-preview{
-  flex-direction: column;
+  display: block;
+  padding-bottom: 1rem;
 }

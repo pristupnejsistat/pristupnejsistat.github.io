@@ -6,7 +6,7 @@
 
   {% for post in paginator.posts %}
 
-    {% include blog-preview.html %}
+    {% include blog-preview.html content=post.content %}
 
   {%endfor%}
 
@@ -15,9 +15,10 @@
   <div class="pagination">
 
     <div class="pagination-content">
-      {% if paginator.page != 1 and paginator.previous_page != 1 %}
+      Strana{% if paginator.page != 1 and paginator.previous_page != 1 %}
         <a href="/blog/">1</a>..
-      {% endif %}
+
+      {%endif%}
 
       {% if paginator.previous_page %}
         <a href="{{paginator.previous_page_path}}">{{paginator.previous_page}}</a>
@@ -28,6 +29,8 @@
       {% if paginator.next_page %}
         <a href="{{paginator.next_page_path}}">{{paginator.next_page}}</a>
       {% endif %}
+
+
 
       {% if paginator.page != paginator.total_pages and paginator.next_page != paginator.total_pages %}
         ..<a href="/blog/{{paginator.total_pages}}">{{paginator.total_pages}}</a>
