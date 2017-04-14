@@ -226,7 +226,7 @@ a {
   max-width: 10rem; }
   @media (max-width: 64em) {
     .clipped {
-      width: 50%; } }
+      max-width: 70%; } }
 
 nav {
   font-family: 'Open Sans', sans-serif; }
@@ -249,11 +249,15 @@ nav {
 
 .team-member {
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;
+  align-items: center; }
   @media (max-width: 40em) {
     .team-member {
-      margin: 1rem;
+      margin: 1rem 0;
       flex-direction: row; } }
+  @media (max-width: 64em) {
+    .team-member {
+      margin: 1.5rem 0; } }
 
 .member-info {
   display: flex;
@@ -264,14 +268,8 @@ nav {
 .member-photo {
   display: flex;
   align-items: center;
-  justify-content: center; }
-  @media (max-width: 40em) {
-    .member-photo {
-      width: 33%; } }
-
-.member-photo img {
-  max-width: 10rem;
-  max-height: 10rem; }
+  justify-content: center;
+  max-width: 40%; }
 
 .icons {
   display: flex;
