@@ -1,0 +1,103 @@
+
+"field:node:19","a:1:{s:4:""body"";a:1:{s:3:""und"";a:1:{i:0;a:5:{s:5:""value"";s:4013:""<div class=""perex"">
+Jelikož je pro nás uživatelské testování v tuto chvíli základní metodou, kterou při své práci používáme, myslíme si, že je zásadní tuto metodu trochu osvětlit. Přeložili jsme tedy článek z portálu usability.gov, který se uživatelským testováním zabývá.</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Uživatelské testování dává možnost vývojovým týmům předvídat problémy před tím, než se objeví. Čím dříve jsou problémy identifikovány a vyřešeny, tím méně závažné budou změny jednak co se týče času na jejich opravě strávené, tak co se týče dopadu na projekt. V průběhu uživatelského testování budete dělat tyto věci:	</p>
+</div>
+
+<ul>
+<li>pozorovat, jestli dokáží uživatelé splnit konkrétní úkoly úspěšně,</li>
+<li>identifikovat, jak dlouho jim trvá řešení jejich úkolů,</li>
+<li>zjišťovat, jak jsou vaši účastníci spokojeni s vaší webovou stránkou či jiným produktem,</li>
+<li>identifikovat změny nutné ke zvýšení spokojenosti uživatelů,</li>
+<li>analyzovat současný stav aplikace či webu pro zjištění, jestli jste splnili kritéria použitelnosti.</li>
+</ul>
+
+<h2>Nepotřebujete mít profesionální laboratoř</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Pro efektivní uživatelské testování nepotřebujete formální laboratoř. Testování lze úspěšně jedním z následujících způsobů:
+</p>
+</div>
+
+<ul>
+<li>pevná laboratoř se dvěma až třemi spojenými pokoji vybavená s audio-vizuální technikou,</li>
+<li>pokoj s přenosným nahrávacím zařízením,</li>
+<li>pokoj bez nahrávacího zařízení za předpokladu, že je přítomen pozorovatel a zapisovatel testování,</li>
+<li>vzdáleně - když je uživatel fyzicky jinde (ať už moderovaně, či nemoderovaně).</li>
+</ul>
+
+<h2>Faktory ovlivňující cenu testování
+</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Cena vašeho testování závisí na:
+
+</p>
+</div>
+
+<ul>
+<li>typu provedeného testování,</li>
+<li>velikosti týmu sestaveného pro testování,</li>
+<li>počtu účastníků testování,</li>
+<li>množství času, který věnujete testování.</li>
+</ul>
+
+<div class=""blog-paragraph"">
+	<p>
+Nezapomínejte plánovat pro více než jeden test použitelnosti. Zapracování prvků použitelnosti na webovou stránku (nebo jakýkoli jiný produkt) je postupný proces. Nejdůležitejší prvky ovlivňující plánování uživatelského testování:
+</p>
+</div>
+
+<ul>
+<li><b>Čas:</b> Budete potřebovat čas pro plánování testu použitelnosti. Bude třeba, aby se seznámil odborník na použitelnost se svým týmem a vypracoval testovací scénáře. Mimo samotné plánování nezapomínejte na ostatní části testování jako ověřování faktů, analýza dat či prezentaci zjištěných výsledků.</li>
+<li><b>Cena za nábor:</b> Přemýšlejte nad tím jak a kde budete získávat účastníky testování. Buď budete potřebovat čas vašich náborářů pro získání účastníků nebo bude třeba zajistit služby externích personalistů pro zisk účastníků podle zadaných požadavků</li>
+<li><b>Kompenzace participantům: </b>Pokud máte v plánu účastníkům kompenzovat jejich účast, zohledněte to do svého testovacího rozpočtu</li>
+<li><b>Pronájem: </b>Pokud nemáte vybavení pro sledování nebo nahrávání, budete potřebovat počítat i s rozpočtem pronájmu laboratoře a ostatní vybavení. Možná budete potřebovat zajistit místo pro testování (kupříkladu konferenční místnost), nezapomeňte i podobné faktory zohlednit v plánovací fázi</li>
+<li>Je nutné si neustále připomínat, že uživatelské testování není jen další položka pro odškrtnutí ze seznamu úkolů projektu. Tím by měl mít cíl, kvůli kterému je testování prováděno a následně i díky zjištěným faktům v průběhu testování se nám jej podaří dosáhnout.</li>
+</ul>"";s:7:""summary"";s:284:""Jelikož je pro nás uživatelské testování v tuto chvíli základní metodou, kterou při své práci používáme, myslíme si, že je zásadní tuto metodu trochu osvětlit. Přeložili jsme tedy článek z portálu usability.gov, který se uživatelským testováním zabývá."";s:6:""format"";s:9:""full_html"";s:10:""safe_value"";s:3931:""<div class=""perex"">
+Jelikož je pro nás uživatelské testování v tuto chvíli základní metodou, kterou při své práci používáme, myslíme si, že je zásadní tuto metodu trochu osvětlit. Přeložili jsme tedy článek z portálu usability.gov, který se uživatelským testováním zabývá.</div>
+<div class=""blog-paragraph"">
+<p>
+Uživatelské testování dává možnost vývojovým týmům předvídat problémy před tím, než se objeví. Čím dříve jsou problémy identifikovány a vyřešeny, tím méně závažné budou změny jednak co se týče času na jejich opravě strávené, tak co se týče dopadu na projekt. V průběhu uživatelského testování budete dělat tyto věci:	</p>
+</div>
+<ul><li>pozorovat, jestli dokáží uživatelé splnit konkrétní úkoly úspěšně,</li>
+<li>identifikovat, jak dlouho jim trvá řešení jejich úkolů,</li>
+<li>zjišťovat, jak jsou vaši účastníci spokojeni s vaší webovou stránkou či jiným produktem,</li>
+<li>identifikovat změny nutné ke zvýšení spokojenosti uživatelů,</li>
+<li>analyzovat současný stav aplikace či webu pro zjištění, jestli jste splnili kritéria použitelnosti.</li>
+</ul><h2>Nepotřebujete mít profesionální laboratoř</h2>
+<div class=""blog-paragraph"">
+<p>
+Pro efektivní uživatelské testování nepotřebujete formální laboratoř. Testování lze úspěšně jedním z následujících způsobů:
+</p>
+</div>
+<ul><li>pevná laboratoř se dvěma až třemi spojenými pokoji vybavená s audio-vizuální technikou,</li>
+<li>pokoj s přenosným nahrávacím zařízením,</li>
+<li>pokoj bez nahrávacího zařízení za předpokladu, že je přítomen pozorovatel a zapisovatel testování,</li>
+<li>vzdáleně - když je uživatel fyzicky jinde (ať už moderovaně, či nemoderovaně).</li>
+</ul><h2>Faktory ovlivňující cenu testování<br /></h2>
+<div class=""blog-paragraph"">
+<p>
+Cena vašeho testování závisí na:</p>
+</div>
+<ul><li>typu provedeného testování,</li>
+<li>velikosti týmu sestaveného pro testování,</li>
+<li>počtu účastníků testování,</li>
+<li>množství času, který věnujete testování.</li>
+</ul><div class=""blog-paragraph"">
+<p>
+Nezapomínejte plánovat pro více než jeden test použitelnosti. Zapracování prvků použitelnosti na webovou stránku (nebo jakýkoli jiný produkt) je postupný proces. Nejdůležitejší prvky ovlivňující plánování uživatelského testování:
+</p>
+</div>
+<ul><li><b>Čas:</b> Budete potřebovat čas pro plánování testu použitelnosti. Bude třeba, aby se seznámil odborník na použitelnost se svým týmem a vypracoval testovací scénáře. Mimo samotné plánování nezapomínejte na ostatní části testování jako ověřování faktů, analýza dat či prezentaci zjištěných výsledků.</li>
+<li><b>Cena za nábor:</b> Přemýšlejte nad tím jak a kde budete získávat účastníky testování. Buď budete potřebovat čas vašich náborářů pro získání účastníků nebo bude třeba zajistit služby externích personalistů pro zisk účastníků podle zadaných požadavků</li>
+<li><b>Kompenzace participantům: </b>Pokud máte v plánu účastníkům kompenzovat jejich účast, zohledněte to do svého testovacího rozpočtu</li>
+<li><b>Pronájem: </b>Pokud nemáte vybavení pro sledování nebo nahrávání, budete potřebovat počítat i s rozpočtem pronájmu laboratoře a ostatní vybavení. Možná budete potřebovat zajistit místo pro testování (kupříkladu konferenční místnost), nezapomeňte i podobné faktory zohlednit v plánovací fázi</li>
+<li>Je nutné si neustále připomínat, že uživatelské testování není jen další položka pro odškrtnutí ze seznamu úkolů projektu. Tím by měl mít cíl, kvůli kterému je testování prováděno a následně i díky zjištěným faktům v průběhu testování se nám jej podaří dosáhnout.</li>
+</ul>"";s:12:""safe_summary"";s:292:""<p>Jelikož je pro nás uživatelské testování v tuto chvíli základní metodou, kterou při své práci používáme, myslíme si, že je zásadní tuto metodu trochu osvětlit. Přeložili jsme tedy článek z portálu usability.gov, který se uživatelským testováním zabývá.</p>
+"";}}}}","0","1441654034","1"

@@ -32,6 +32,13 @@
     .menu {
       padding: .5rem; } }
 
+.contact-wrapper {
+  display: flex !important;
+  flex-direction: row; }
+  @media (max-width: 40em) {
+    .contact-wrapper {
+      flex-direction: column; } }
+
 span {
   display: inline-block; }
 
@@ -115,9 +122,11 @@ a {
 .primary strong {
   text-decoration-color: rgba(0, 0, 0, 0.75); }
 
-.primary a {
-  text-decoration: none;
-  border: 2px dotted white;
+.primary a, .primary a:visited {
+  color: #eee;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #eee;
   padding: 2px;
   margin: 2px; }
 
@@ -150,10 +159,21 @@ a {
 
 .contact-claim {
   display: flex;
-  align-items: center; }
+  align-items: center;
+  flex-direction: column;
+  justify-content: center; }
   @media (max-width: 40em) {
     .contact-claim {
       margin-bottom: 1rem; } }
+
+.direct-contact {
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  width: 100%; }
+
+#contact {
+  display: flex; }
 
 .reference {
   display: flex;
@@ -317,10 +337,11 @@ nav {
   #input-form .button {
     align-self: flex-end; }
 
-#contact {
-  display: flex; }
+#kontakt {
+  display: flex;
+  border: 1px solid #ccc; }
   @media (max-width: 40em) {
-    #contact {
+    #kontakt {
       flex-direction: row; } }
 
 .method, .reference {

@@ -1,0 +1,77 @@
+
+"";s:12:""safe_summary"";s:272:""<p>Naším cílem je otevřít debatu na téma použitelnosti webů provozovaných státem. Jsme přesvědčeni o tom, že současný stav veřejných informačních systémů v ČR neodpovídá současným standardům a trendům, které lze pozorovat v zahraničí. </p>
+"";}}}}","0","1440578915","1"
+"field:node:14","a:1:{s:4:""body"";a:1:{s:3:""und"";a:1:{i:0;a:5:{s:5:""value"";s:3615:""<div class=""perex"">
+V úterý 21. dubna jsme uspořádali první veřejné uživatelské testování pro přibližně 30 zájemců. S akcí nám pomohli dva dobrovolníci – testeři, které jsme oslovili ještě před akcí. Moderování se chopil zakladatel UX Akademie, Berka Berkaux.
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/testovani.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+Prvním testovaným webem byl portál <a href=""http://www.financnisprava.cz/"" target=""_blank"" class=""link"">Finanční správy.</a> Testování bylo koncipováno jako série šesti nezávislých úkolů, které jsme vytvořili zejména podle zaměření samotného webu. Pro ilustraci – jeden z úkolů pro portál Finanční správy zněl: “Rozhodujete se, jestli budete spolupracovat s firmou, která má IČO 26185610. Zjistěte, jak se firma jmenuje a jaký má základní kapitál.” Jedná se o situaci, se kterou se může uživatel tohoto portálu reálně setkat. Ostatní úkoly se nesly v podobném duchu.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Druhý portál jsme během přestávky změnili. Původně jsme měli v plánu otestovat <a href=""http://portal.gov.cz/portal/obcan/"" target=""_blank"" class=""link"">Portál veřejné správy.</a> Využili jsme však přítomnosti starosty Nového Města na Moravě, Michala Šmardy, který byl ochotný nechat přede všemi otestovat připravenost webu <a href=""https://www.nmnm.cz/"" class=""link"" target=""_blank"">Nové Město na Moravě</a> na řešení úkolů, na kterých se s Berkou o pauze dohodli. Ani jednou  se však testerovi (který na  podnět publika mohl využit i vyhledáváni v Google – nezačínal tudíž přímo na testovaném webu, jak tomu bylo v prvním případě) nepodařilo úspěšně dopracovat ke zdárnému cíli.
+	</p>
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/agilni_diskuze.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+<strong>Michal Šmarda</strong>, starosta Nového Města na Moravě:
+	</p>
+<blockquote>
+“Akcička pěkná. Inspirovalo mne to, abychom se trošku zamysleli nad celkovým přístupem ke struktuře informací na webu a nad způsobem zveřejňování. Chtělo by to nějak zapojit více měst a pokusit se o srovnání a výměnu zkušeností… A mrkvové jednohubky byly super. :)”
+</blockquote>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+V příštím týdnu přineseme podrobnější rozbor výsledků celého testování. Vášnivá debata, kterou testování pomohlo podnítit, byla přesně to, co jsme si od testování slibovali. Jsme velice rádi, že se nám podařilo rozpoutat diskuzi nad tím, jak dílčí portály fungují během interakce s koncovým uživatelem. Budeme se snažit co nejrychleji zpracovat zpětnou vazbu, kterou sbíráme od účastníků testování.
+	</p>
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/crowd.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+Testování poukázalo na to, že weby veřejné správy ne vždy fungují tak, jak bychom si přáli. Není na místě v tuto chvíli vinit konkrétní osobu či instituci. Chceme hlouběji prozkoumat příčiny, proč tomu tak je. Věříme, že i státní portály lze udělat kvalitně a s patřičným důrazem na koncové uživatele. Příští týden zde můžete očekávat podrobnější výstupy ze samotného testování.
+	</p>
+</div>"";s:7:""summary"";s:133:""21. dubna jsme uspořádali otevřené veřejné testování webů veřejné správy. Jaké weby jsme vybrali a jak to celé dopadlo?"";s:6:""format"";s:9:""full_html"";s:10:""safe_value"";s:3594:""<div class=""perex"">
+V úterý 21. dubna jsme uspořádali první veřejné uživatelské testování pro přibližně 30 zájemců. S akcí nám pomohli dva dobrovolníci – testeři, které jsme oslovili ještě před akcí. Moderování se chopil zakladatel UX Akademie, Berka Berkaux.
+</div>
+<p><img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/testovani.JPG"" alt=""Otevřené testování"" class=""blog-pic"" /></p>
+<div class=""blog-paragraph"">
+<p>
+Prvním testovaným webem byl portál <a href=""http://www.financnisprava.cz/"" target=""_blank"" class=""link"">Finanční správy.</a> Testování bylo koncipováno jako série šesti nezávislých úkolů, které jsme vytvořili zejména podle zaměření samotného webu. Pro ilustraci – jeden z úkolů pro portál Finanční správy zněl: “Rozhodujete se, jestli budete spolupracovat s firmou, která má IČO 26185610. Zjistěte, jak se firma jmenuje a jaký má základní kapitál.” Jedná se o situaci, se kterou se může uživatel tohoto portálu reálně setkat. Ostatní úkoly se nesly v podobném duchu.
+	</p>
+</div>
+<div class=""blog-paragraph"">
+<p>
+Druhý portál jsme během přestávky změnili. Původně jsme měli v plánu otestovat <a href=""http://portal.gov.cz/portal/obcan/"" target=""_blank"" class=""link"">Portál veřejné správy.</a> Využili jsme však přítomnosti starosty Nového Města na Moravě, Michala Šmardy, který byl ochotný nechat přede všemi otestovat připravenost webu <a href=""https://www.nmnm.cz/"" class=""link"" target=""_blank"">Nové Město na Moravě</a> na řešení úkolů, na kterých se s Berkou o pauze dohodli. Ani jednou  se však testerovi (který na  podnět publika mohl využit i vyhledáváni v Google – nezačínal tudíž přímo na testovaném webu, jak tomu bylo v prvním případě) nepodařilo úspěšně dopracovat ke zdárnému cíli.
+	</p>
+</div>
+<p><img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/agilni_diskuze.JPG"" alt=""Otevřené testování"" class=""blog-pic"" /></p>
+<div class=""blog-paragraph"">
+<p>
+<strong>Michal Šmarda</strong>, starosta Nového Města na Moravě:
+	</p>
+<blockquote><p>
+“Akcička pěkná. Inspirovalo mne to, abychom se trošku zamysleli nad celkovým přístupem ke struktuře informací na webu a nad způsobem zveřejňování. Chtělo by to nějak zapojit více měst a pokusit se o srovnání a výměnu zkušeností… A mrkvové jednohubky byly super. :)”
+</p></blockquote>
+</div>
+<div class=""blog-paragraph"">
+<p>
+V příštím týdnu přineseme podrobnější rozbor výsledků celého testování. Vášnivá debata, kterou testování pomohlo podnítit, byla přesně to, co jsme si od testování slibovali. Jsme velice rádi, že se nám podařilo rozpoutat diskuzi nad tím, jak dílčí portály fungují během interakce s koncovým uživatelem. Budeme se snažit co nejrychleji zpracovat zpětnou vazbu, kterou sbíráme od účastníků testování.
+	</p>
+</div>
+<p><img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/crowd.JPG"" alt=""Otevřené testování"" class=""blog-pic"" /></p>
+<div class=""blog-paragraph"">
+<p>
+Testování poukázalo na to, že weby veřejné správy ne vždy fungují tak, jak bychom si přáli. Není na místě v tuto chvíli vinit konkrétní osobu či instituci. Chceme hlouběji prozkoumat příčiny, proč tomu tak je. Věříme, že i státní portály lze udělat kvalitně a s patřičným důrazem na koncové uživatele. Příští týden zde můžete očekávat podrobnější výstupy ze samotného testování.
+	</p>
+</div>
+"";s:12:""safe_summary"";s:141:""<p>21. dubna jsme uspořádali otevřené veřejné testování webů veřejné správy. Jaké weby jsme vybrali a jak to celé dopadlo?</p>
+"";}}}}","0","1440578915","1"

@@ -2,7 +2,7 @@
   <h2>{{page.title}}</h2>
   <div class="blog-preview-bottom column large-8">
     <span>Autor: {{page.author}}</span>
-    <span>Doba čtení: {% include read-time.html content=content%}</span>
+    <span>{% include read-time.html content=content%}</span>
     <span>Vydáno: {{page.date | date_to_long_string }}</span>
   </div>
 </div>

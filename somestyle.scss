@@ -7,6 +7,7 @@
 
 $pink-color: pink;
 $dark-color: #444;
+$gray-color: #ccc;
 $white-color: #eee;
 $brighter-white-color: white;
 $primary-color: #15a;
@@ -62,10 +63,17 @@ $primary-color: #15a;
   flex-direction: row;
   justify-content: flex-end;
 }
-//
-// body{
-//   color: rgba(0, 0, 0, 0.625);
-// }
+
+.contact-wrapper{
+  display: flex !important;
+
+  flex-direction: row;
+
+  @media (max-width: 40em){
+    flex-direction: column;
+  }
+
+}
 
 span{
   display: inline-block;
@@ -178,14 +186,14 @@ a{
 }
 
 .primary strong{
-  // text-decoration: underline;
   text-decoration-color: rgba(0,0,0,0.75);
 }
 
-.primary a{
-  text-decoration: none;
-   border: 2px dotted $brighter-white-color;
-  //  border-top: 3px dotted $white-color;
+.primary a, .primary a:visited{
+  color: $white-color;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: $white-color;
    padding: 2px;
    margin: 2px;
 }
@@ -229,10 +237,23 @@ a{
 .contact-claim{
   display: flex;
   align-items: center;
+  flex-direction: column;
+  justify-content: center;
 
   @media (max-width: 40em){
     margin-bottom: 1rem;
   }
+}
+
+.direct-contact{
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+#contact{
+  display: flex;
 }
 
 .reference{
@@ -472,10 +493,12 @@ nav{
 
 }
 
-#contact{
+#kontakt{
   display: flex;
   // flex-direction: column;
   // align-items: center;
+
+  border: 1px solid $gray-color;
 
   @media (max-width: 40em){
     flex-direction: row;

@@ -1,0 +1,1449 @@
+"1","Kontaktní formulář","info@pristupnejsistat.cz,vanek.erik@gmail.com","Dobrý den,
+děkujeme za Váš dotaz. Budeme se jej snažit zodpovědět co nejrychleji.
+
+S pozdravem,
+tým Přístupnějšího státu","0","1"
+"node","page","0","4","4","und","0","<h1>Členové týmu přístupnějšího státu</h1>
+
+<h2>Tomáš Arnot</h2>
+
+<h2>Lucia Barthová</h2>
+
+<h2>Vojtěch Kurka</h2>
+
+<h2>Erik Vaněk</h2>","Představení zakládajích členů týmu Přístupnějšího státu","full_html"
+"node","article","0","5","5","und","0","Jakub Mráček, jeden z přednášejících na nedávné DataConf, pronesl větu, která nás velmi zaujala:
+
+""Stát je pouze korporace. A k tomu ještě neefektivní.""
+
+O den později jsem narazil na tento zajímavý článek, kterého bych si bez zmíněného názoru ani nevšiml. Autor v něm popisuje zkušenosti s vývojem a testování UX rozhraní a ověřování jeho použitelnosti v prostředí korporace.
+
+Z tohoto článku bychom tedy mohli (a měli) čerpat cenné informace a zkušenosti o tom, jak se chovat a jak nechovat při kontaktu s veřejnou správou.","Sumář tohoto blogpostu, který je prvním ze série článků, které se snaží","filtered_html"
+"node","page","0","6","6","und","0","<div class=""landing-page-part"">
+<p>
+Cílem projektu Přístupnější stát je šíření osvěty v oblasti <em>použitelnosti</em> webů a informačních systému veřejné správy. Nejsme spokojeni se zastaralou podobou webů veřejné správy, která velice pomalu reflektuje rychle se měnící požadavky kladené na soudobé webové portály. Na druhou stranu mají právě veřejné instituce k dispozici velké množství kvalitních informací. Je tedy velká škoda, že je často nelze adekvátně prezentovat.
+</p>
+
+<p>
+Chceme podnítit konstruktivní diskuzi na toto téma a propojit osoby, které mají šanci se stávající situaci něco udělat. Mezi zástupce této skupiny řadíme tvůrce samotných webů, politiky a veřejné zastupitele a také odborníky na téma uživatelské přívětivosti informačních systémů.
+</p>
+<p>
+	V České republice máme <a href=""https://www.sluzby-isvs.cz/ISoISVS/Reports/CelkoveSumy.aspx"" target=""_blank"" class=""link"">6 435</a> veřejných informačních systémů, na jejichž provoz je každý rok vynaloženo více jak 24 miliard korun. Stát má povinnost zveřejňovat určité informace, a proto vzniká spousta webových stránek a aplikací, které poskytují přístup k informacím. Bohužel, mnohdy stačí zajistit dostupnost informací online, ale nad použitelností systému se nikdo nezamýšlí.
+</p>
+</div>
+
+<div class=""landing-page-part"">
+
+</div>
+
+<div class=""landing-page-part featured"">
+	<h2>Měřítka kvality dnes</h2>
+	<div class=""featured-part featured-icon"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/metrika.jpg""/>
+	</div>
+
+	<div class=""featured-content"">
+
+		<p>
+			Při navrhování veřejných informačních systémů pro občany je závazná vyhláška č. 64/2008 Sb. a metodika, která na vyhlášku navazuje. Tyto dokumenty jsou zastaralé, zaměřené na technické specifikace, ale hlavně: jejich naplnění nedokáže zajistit použitelnost informačních systémů. Dokumenty zcela přehlížejí potřeby koncových uživatelů.
+		</p>
+	</div>
+</div>
+
+<div class=""landing-page-part featured"">
+<h2>Jak posuzujeme použitelnost?</h2>
+<div class=""featured-part featured-icon"">
+	<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/posuzovani.jpg""/>
+</div>
+
+<div class=""featured-content featured-part"">
+
+	<p>
+		Ptáme se a ověřujeme. Naším úkolem je zjistit, jestli je rozhraní informačního systému zaměřeno na uživatele a jejich reálné potřeby. Systémy testujeme a ověřujeme průchod reálných uživatelů při zadaných úkolech. Veřejný IS chápeme jako službu občanům, díky které mohou získat snadnější přístup k informacím.
+	</p>
+</div>
+
+</div>
+
+<div class=""landing-page-part featured"">
+	<h2 id=""govuk-header"">Inspirovali jsme se kolegy ze zahraničí</h2>
+
+	<div class=""featured-part featured-icon"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/inspirace.jpg""/>
+	</div>
+
+	<div class=""featured-content"">
+	<p>
+		Na správnou cestu se v nedávné minulosti vydala i Velká Británie. Její <a href=""https://www.gov.uk/government/organisations/government-digital-service"" class=""link"" target=""_blank"">Government Digital Service</a> je krásnou ukázkou toho, že lze elektronizovat státní správu kvalitně a efektivně. Rádi bychom se pokusili o něco podobného i v České republice.
+	</p>
+		<blockquote>""We help government make digital services and information simpler, clearer and faster. We put users' needs before the needs of government.""</blockquote>
+	</div>
+
+<a href=""https://www.gov.uk/government/organisations/government-digital-service"" target=""_blank"" id=""govuk-link""><img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/gds.jpg""/></a>
+
+
+</div>
+
+<div class=""landing-page-part"">
+	<h2>Největší výzvy nás teprve čekají</h2>
+	<ul>
+		<li><span class=""fa fa-check-circle"">Veřejné testování použitelnosti</span></li>
+		<li><span class=""fa fa-check-circle"">Průběžné informování o nedostatcích a limitech současných IS</span></li>
+		<li><span class=""fa fa-check-circle"">Prezentace nedostatků a diskuse nad možnostmi změny</span></li>
+	</ul>
+</div>
+
+<div class=""landing-page-part"">
+	<div class=""call-to-action"">
+		<p>
+			Víte o veřejném IS, který bychom měli otestovat? <a href=""http://www.pristupnejsistat.cz/contact"" alt=""Kontaktní formulář"" class=""link"">Napište nám</a> o něm.
+		</p>
+	</div>
+</div>
+
+<div class=""landing-page-part"">
+	<h2>Kdo jsme</h2>
+	<p>
+		Jsme skupina mladých lidí, která se snaží uskutečnit dobrou věc. Máme různá povolání, ale spojuje nás obor Informační studia a knihovnictví na Filozofické fakultě Masarykovy univerzity. Projekt Přístupnější stát začal jako školní projekt, ale ambice má mnohem větší!
+	</p>
+
+<div class=""member-profile"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/tom_small.jpg"" alt=""Portrét Tomáše Arnota"" />
+		<h3>Tomáš Arnot</h3>
+
+		<p>Tomáš vystudoval Estetiku na Masarykově univerzitě, pracoval v neziskové organizaci, galerii výtvarného umění i jako plavčík u Vodní záchranné služby. V současné době se specializuje na design služeb a pracuje jako projekt manager ve společnosti CYRRUS MARKETING. Rád zajde na dobrou výstavu, do divadla, nebo jen tak si zaběhat. Inspiruje a nechává se inspirovat.</p>
+		<blockquote>""Do projektu jsem se zapojil, protože chci změnit věci k lepšímu. Angažovanost je životní postoj.""</blockquote>
+		<div class=""member-links"">
+			<a href=""mailto:tom@pristupnejsistat.cz"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-envelope fa-stack-2x""></i><i class=""fa fa-envelope fa-stack-1x fa-inverse""></i></span></a><a href=""http://cz.linkedin.com/in/arnot"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-linkedin fa-stack-2x""></i><i class=""fa fa-linkedin fa-stack-1x fa-inverse""></i></span></a><a href=""https://twitter.com/TomasArnot"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-twitter fa-stack-2x""></i><i class=""fa fa-twitter fa-stack-1x fa-inverse""></i></span></a>
+		</div>
+	</div>
+
+<div class=""member-profile"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/lucia_small.jpg"" alt=""Portrét Lucie Barthové"" />
+		<h3>Lucia Barthová</h3>
+		<p>Lucia studuje Informační studia a knihovnictví, zajímá se o design služeb, datovou analytiku a UX design, kterému se věnovala i ve své bakalářské práci. Živí ji marketing v obchodní firmě, kde kromě správy webu, e-shopu a sociálních sítí spoluorganizuje eventy pro klienty. Kromě toho hraje v kapele a ráda sleduje britské sitcomy.</p>
+		<blockquote>""Přístupnější stát je pro mne způsobem, jak se realizovat ve věcech, které mají opravdu smysl. Na první místo totiž klademe člověka a jeho potřeby. Chceme ukázat, že to jde i jinak!""</blockquote>
+		<div class=""member-links"">
+			<a href=""mailto:lucia@pristupnejsistat.cz"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-envelope fa-stack-2x""></i><i class=""fa fa-envelope fa-stack-1x fa-inverse""></i></span></a><a href=""https://www.linkedin.com/pub/lucia-barthov%C3%A1/28/583/36?domainCountryName=&csrfToken=ajax%3A3350373226467697609"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-linkedin fa-stack-2x""></i><i class=""fa fa-linkedin fa-stack-1x fa-inverse""></i></span></a><a href=""https://twitter.com/luciabarthova"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-twitter fa-stack-2x""></i><i class=""fa fa-twitter fa-stack-1x fa-inverse""></i></span></a>
+		</div>
+	</div>
+
+	<div class=""member-profile"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/vojta_small.jpg"" alt=""Portrét Vojty Kurky"" />
+		<h3>Vojtěch Kurka</h3>
+		<p>Vojta má vystudovanou informatiku na VUT a nyní je datovým analytikem ve firmě Webnode. Rád se v práci i mimo ní zabývá webovou analytikou a hledáním problémů, na které může běžný uživatel webových stránek narazit. Vyžívá se v identifikaci a vyřešení problémových míst při procházení webovými stránkami a až na první místo klade příjemný uživatelský zážitek.</p>
+		<blockquote>""Web by měl být co nejpřirozenější pro bězného člověka. Rozhodně by neměl stát mezi uživatelem a informacemi, které chce. Web tu je pro lidi, ne lidi pro něj.""</blockquote>
+		<div class=""member-links"">
+			<a href=""mailto:vojta@pristupnejsistat.cz"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-envelope fa-stack-2x""></i><i class=""fa fa-envelope fa-stack-1x fa-inverse""></i></span></a><a href=""https://cz.linkedin.com/in/kurkavojtech"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-linkedin fa-stack-2x""></i><i class=""fa fa-linkedin fa-stack-1x fa-inverse""></i></span></a><a href=""https://twitter.com/vojtano_k"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-twitter fa-stack-2x""></i><i class=""fa fa-twitter fa-stack-1x fa-inverse""></i></span></a>
+		</div>
+	</div>
+
+	<div class=""member-profile"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/erik_small.jpg"" alt=""Portrét Erika Vaňka"" />
+		<h3>Erik Vaněk</h3>
+		<p>Během svých studií oboru Počítačová grafika a zpracování obrazu měl Erik možnost spolupracovat s laboratoří zabývající se interakcí člověka s počítačem. Toto položilo základy jeho zájmu o obecnou použitelnost a správný návrh uživatelských rozhraní. Byť je aktuálně zaměstnán na pozici vývojáře, vždy se snaží dbát maximální důraz na koncového uživatele.</p>
+		<blockquote>""Když je tolik kvalitních českých vývojářů a designérů, proč musí být stav českého e-governmentu tak žalostný? Bylo by úžasné jej změnit k lepšímu!""</blockquote>
+		<div class=""member-links"">
+			<a href=""mailto:erik@pristupnejsistat.cz"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-envelope fa-stack-2x""></i><i class=""fa fa-envelope fa-stack-1x fa-inverse""></i></span></a><a href=""https://www.linkedin.com/in/erikvanek"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-linkedin fa-stack-2x""></i><i class=""fa fa-linkedin fa-stack-1x fa-inverse""></i></span></a><a href=""https://twitter.com/vanek_erik"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-twitter fa-stack-2x""></i><i class=""fa fa-twitter fa-stack-1x fa-inverse""></i></span></a>
+		</div>
+	</div>
+
+</div>
+
+<div class=""call-to-action"">
+	<p>
+		Zaujalo Vás, na čem pracujeme? <a href=""http://www.pristupnejsistat.cz/contact"" alt=""Kontaktní formulář"" class=""link"">Rádi uslyšíme Váš názor.</a> Přístupnější stát je tady pro kohokoli, kdo si myslí, že lze dělat český e-government kvalitněji a lépe pro všechny občany.
+	</p>
+</div>","Projekt Přístupnější stát - co si představujeme pod pojmem přístupnější stát","full_html"
+"node","page","0","9","9","und","0",,"login","filtered_html"
+"node","blog","0","10","10","und","0","<div class=""perex"">
+	Jako jeden ze svých zdrojů inspirace bereme britský tým GDS (Government Digital service) a jejich základních <a href=""https://www.gov.uk/design-principles"" class=""link"">10 designových principů</a>. Tento tým se od poloviny roku 2011 snaží o zavádění kvalitní digitalizace britské státní správy. Rádi bychom se o něco podobného v rámci našeho projektu pokusili i v rámci naší republiky. Níže naleznete překlad jednotlivých principů.
+</div>
+
+<ol>
+	<li>Začněte průzkumem potřeb</li>
+	<li>Méně je více</li>
+	<li>Designujte s pomocí dat</li>
+	<li>Tvrdě pracujte, aby nakonec bylo vše jednodušší</li>
+	<li>Iterujte. A potom iterujte znovu.</li>
+	<li>Myslete na všechny</li>
+	<li>Pochopte kontext</li>
+	<li>Tvořte digitální služby, ne webové stránky</li>
+	<li>Buďte konzistentní, ne uniformní</li>
+	<li>Otevřenost je dobrá věc</li>
+</ol>
+
+<div class=""blog-paragraph"">
+	<h3>1. Začněte průzkumem potřeb</h3>
+	<p>
+		Designový proces musí začít identifikací a zamyšlením se nad potřebami skutečných uživatelů. Musíte těmto potřebám důkladně porozumět – zkoumejte data, nejen domněnky. Měli byste pamatovat i na to, že uživatelé často vyžadují něco, co ve skutečnosti nepotřebují. Zkoumání potřeb se stává organizačním principem v momentě, kdy lidé vaše stránky, aby splnili nějaké úlohy a naplnili své potřeby – ne se jen dívali. Kladení důrazu na potřeby znamená, že se soustředíte na věci, které přinesou co největší hodnotu za co nejméně peněz.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>2. Méně je více</h3>
+	<p>
+		Stát by se měl věnovat jen tomu, čemu se věnovat má. Na vše ostatní stačí odkázat prostřednictvím vhodně umístěných odkazů. Pokud je vašich silách poskytovat zdroje (například API), které pomůžou ostatním lidem – udělejte to. Měli byste se koncentrovat na neredukovatelné jádro. Pokud se soustředíte jen na ty zdroje, které mohou být nejprospěšnější, vytvoříte tak lepší služby a ušetříte peníze.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>3. Designujte s pomocí dat</h3>
+	<p>
+		Uživatelé už vaše služby ve většině případů využívají. To znamená, že se můžete učit jejich chováním ve skutečném světě. Potom by měla následovat tvorba a zlepšování procesu – prototypování a testování s reálnými uživateli během živého provozu.
+	</p>
+	<p>
+		Digitální služby mají velkou výhodu – můžeme sledovat a učit se z chování uživatelů, tvarovat systém tak, aby přirozeně zapadl do toho, co si lidé vybírají. Namísto ohýbání lidí do ""umělého"" systému, který jsme vytvořili bez nich.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>4. Tvrdě pracujte, aby nakonec bylo vše jednodušší</h3>
+	<p>
+		Dělat věci tak, aby vypadaly jednoduše, je snadné. Dělat věci tak, aby jednoduše fungovaly je nesrovnatelně náročnější – obzvláště v případě, kdy je systém ve své podstatě komplikovaný. Ale právě zjednodušování je to, o co byste se měli snažit.
+	</p>
+	</p>
+		S mocí kráčí bok po boku i zodpovědnost – lidé často nemají jinou možnost, než využít právě vaše služby. Pokud nepracujete svědomitě, nesnažíte se tyto služby zjednodušovat a navrhovat je tak, aby byly užitečné, zneužíváte svoji moc a mrháte časem lidí.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>5. Iterujte. A potom iterujte znovu.</h3>
+	<p>
+		Nejlepším způsobem, jak budovat efektivní služby, je důkladně iterovat každý detail.
+	</p>
+	<p>
+		Testujte produkty s reálnými uživateli, vyzkoušejte beta verze a ptejte se lidí na názor. Iterace totiž snižují riziko. Velká selhání jsou nepravděpodobná a z malých se dokážete poučit. Tímto zabráníte tvorbě sáhodlouhých specifikačních dokumentů, z kterých nakonec zůstane platných jen pár stran.
+	</p>
+	<p>
+		Opět zde lze vidět výhodu digitálního světa: nestavíme přece mosty – věci můžeme lehce vrátit do původního stavu.
+	</p>
+</div>
+
+
+<div class=""blog-paragraph"">
+	<h3>6. Myslete na všechny</h3>
+	<p>
+		Přístupný design je dobrý design. Měli byste vytvářet ty nejkompletnější a nejčitelnější produkty, které lze vytvořit. Pokud přitom musíte obětovat eleganci – nevadí. Neměli byste mít strach z toho, co je očividné a snažit se přetvořit konvence webdesignu. Naopak – měli byste jasně naplnit očekávání.
+	</p>
+	<p>
+		Designujte pro celou krajinu – nejen pro ty, kteří jsou na používání webu zvyklí. Ve skutečnosti mají ti lidé, kteří potřebují naše služby nejvíce, největší problémy s jejich použitím. Když budete na tyto lidi myslet už od samého počátku, podaří se vám vytvořit webové stránky pro každého.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>7. Pochopte kontext</h3>
+	<p>
+		Nedesignujte pro obrazovku, designujte pro lidi. Musíte důkladně přemýšlet, v jakém kontextu lidé vaše služby využívají. Jsou v knihovně? Jsou online na smartphonu? Znají Facebook? Používali už někdy předtím web?
+	</p>
+	<p>
+		Designujete pro neuvěřitelně rozmanitou skupinu uživatelů s odlišnými znalostmi technologií a rozličnými potřebami. Ujistěte se, že rozumíte technologickým a praktickým okolnostem, v kterých vaše služby využívají. V jiném případě riskujete, že vytvoříte krásné služby, které ovšem nebudou pro lidský život relevantní.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>8. Tvořte digitální služby, ne webové stránky</h3>
+	<p>
+		Vaše služba nezačíná a nekončí vaší webovou stránkou. Může začít vyhledávačem a končit na poště. Musíte ji s přihlédnutím k těmto okolnostem i navrhovat. Je dobré si uvědomit, že jednoho dne, dříve než se to dozvíte, to bude zase o jiné digitální službě. Neměli byste se proto zabírat webovými stránkami. Měli byste se zabírat digitálními službami. Momentálně platí, že nejlepším způsobem, jak dodat digitální službu, je web. Ale toto se může změnit dříve, než na to budete připraveni.
+	</p>
+
+</div>
+
+
+<div class=""blog-paragraph"">
+	<h3>9. Buďte konzistentní, ne uniformní</h3>
+	<p>
+		Všude, kde je to možné, byste měli používat totožný jazyk a totožné designové vzory. Pomáhá to lidem se s vaší službou ztotožnit. Pokud to není možné, měli byste si ověřit, že váš základní přístup je konzistentní, aby měli uživatelé rozumnou šanci odhadnout, co v danou chvíli mají dělat.
+	</p>
+	<p>
+		Toto není svěrací kazajka nebo kniha pravidel. Skvělé služby nemůžete tvořit mechanicky. Nedokážete si představit všechny scénáře, které mohou nastat. Každá jedna okolnost je jedinečná a měla by být vyhodnocovaná na základě jiných podmínek.
+	</p>
+	<p>
+		Všechno by ale mělo být propojené konzistentním přístupem. Přístupem, kterému budou uživatelé rozumět a důvěřovat – a to i v případě, že se přesunete do digitální sféry.
+	</p>
+
+</div>
+
+
+<div class=""blog-paragraph"">
+	<h3>10. Otevřenost je dobrá věc</h3>
+	<p>
+		Kdekoli jste, měli byste sdílet to, co děláte. S kolegy, uživateli, světem. Sdílet kód, design, nápady, úmysly i selhání. Čím víc očí je uvidí, tím lepší vaše služby budou – vyhnete se chybám, do popředí se dostanou ty lepší alternativy a laťku si nastavíte ještě výše. Částečně také proto, že spousta z toho, co děláme, je možné jen díky otevřeným zdrojovým kódům a štědrosti webdesign komunity. Měli bychom se jim proto odvděčit. Větší otevřenost přispívá k lepší služby – k lepšímu porozumění a lepší kontrole. Když dáte k dispozici kód, dostanete jej zpět ještě lepší.
+	</p>
+</div>
+","Překlad základních deseti pravidel, kterými se řídí tým pracující v rámci organizace Gov.uk.","full_html"
+"node","blog","0","11","11","und","0","<div class=""perex"">
+	Až do přelomu minulého a současného tisíciletí by o existenci digitalizované podoby státního hospodaření málokdo uvažoval. Web byl pouze pro malou hrstku šťastlivců a většina stránek byla statických. Často se jednalo více či méně o prezentaci identity nějaké společnosti, instituce či sdružení.
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Toho času veřejné instituce využívaly web právě tak, jako soukromý sektor. Pouze pro statickou prezentaci informací, se kterou uživatel nemohl dál nijak interaktivně pracovat. Je nesporné, že mít možnost si z domu zjistit otevírací dobu dílčí instituce, přináší výhody. Doba ale pokročila a pomyslné nůžky mezi kvalitou služeb nabízenými státní správou a komerčním sektorem se znatelně rozevřely.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Bohužel oproti komerčnímu sektoru nemá nad sebou veřejná správa ""bič"" v podobě tržní konkurence. Nic ji tudíž nenutí snažit se lidem nabízet lepší a kvalitnější služby, na kterých je nutné neustále pracovat. Řadový občan si může stěžovat, může nadávat apod., ale praktický nemá moc velké šance, jak reálně zkostnatělost zaběhnutých procesů ovlivnit.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Vezměme si běžnou agendu v podobě výměny řidičského či občanského průkazu. Pro úspěšnou žádost o vyřízení těchto dokladů je nutno alespoň dvakrát navštívit příslušný úřad s rozšířenou působností. Málokdy se tyto návštěvy obejdou bez výraznější časové prodlevy. Přitom jde o vcelku snadné administrativní úkony (alespoň ze strany žadatelů). Nešlo by to lépe a jednodušeji? Při rostoucím počtu zaměstnanců a studentů, kteří cestují za svou prací či studiem se přímo nabízí jim dát šanci tuto agendu vyřídit elektronicky.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Ve srovnání s Velkou Británií to česká státní správa prohrává na celé čáře. Na portálu gov.uk po zadání výrazu pro řidičský průkaz stačí jen <a href=""https://www.gov.uk/search?q=driving+licence"" class=""link"" target=""_blank"">dvě další kliknutí</a> pro dosažení požadovaného formuláře. To je suma sumárum minuta, nejvýše dvě. Samozřejmě, že následné vyplnění formuláře zabere o trochu více času. Ale není třeba kvůli němu nikam cestovat.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Digitalizace státní správy samozřejmě není ""samospásná"". Některé problémy bohužel asi stále bude nutné řešit v osobní rovině. Bylo by ale výhodné jak pro stát, tak pro jeho občany, kdyby se podařilo regulovat úkony, které je nutné řešit osobně, na nezbytné minimum. Digitální nástroje jsou konstruovány pro rutinní práce. Ušetřený čas opakující se agendy by mohli úředníci využívat třeba pro navrhování způsobů, jak občanům navrhovat lepší a intuitivněji podané služby.
+	</p>
+</div>","Až do přelomu minulého a současného tisíciletí by o existenci digitalizované podoby státního hospodaření málokdo uvažoval. Doba se ale změnila a je na čase přemýšlet nad webem jako místem, kde je možné snadno a dostupně nabízet kvalitní a intuitivní digitální služeb. I ve státní správě.","full_html"
+"node","blog","0","12","12","und","0","<div class=""perex"">
+	Modení stát v 21. století by si zasloužil kvalitně fungující e-government portály. Cesta k jejich dosažení není tak spletitá, jak by se na první pohled mohlo zdát. Naše vize je propojit odborníky z komerčního prostředí s odpovědnými lidmi ve státní správě a těmto ukázat, že dosáhnout dobře použitelných portálů není tak obtížné, jak by se na první pohled mohlo zdát.
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Čím dál důležitějším sektorem národního hospodářství vyspělých ekonomik tvoří poslední dobou služby. V porovnání s primárním a sekundárním sektorem hospodářství, tedy zemědělstvím a průmyslovou výrobou, klade právě tento výsek ekonomiky nejvyšší důraz na kvalitu mezilidských vztahů. Vzpomeňte na poslední nepříjemnou návštěvu obchodu, kavárny či restaurace. Jistě to není zkušenost, kterou lze považovat za příjemnou.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Komerční sektor má ovšem tu výhodu, že do jej do jisté míry regulují tržní principy. Zákazníci mají přirozenou tendenci vybírat si místa, kde se jim dostává lepšího zacházení a přístupu. Pokud k tomu nemají nějaký nestandardní důvod, běžně konzumují služby, které jsou pro ně srozumitelné a příjemné.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Zákazník státních služeb bohužel na výběr nemá. Nelze si vybrat lepší krajský úřad či správu sociálního zabezpečení. Tato nemožnost volby s sebou přirozeně přináší jistou zkostnatělost při evoluci a inovaci služeb, které státní sektor provozuje. Jistou roli v tomto může hrát i byrokracie se státní správou spojená.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Dobrým (respektive spíše špatným) ilustrativním příkladem jsou webové portály národních úřadů, které naprosto nereflektují potřeby uživatelů webu, které se za poslední desetiletí radikálně změnily. Nehledě na stále rostoucí segment uživatelů webu skrze různá přenosná zařízení.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Drtivé většině státních portálů chybí alespoň náznak přizpůsobení se těmto trendům. Bohužel ve chvíli, kdy si člověk chce zjistit nějakou informaci pomocí mobilního telefonu na nepřizpůsobeném portálu, stráví svým úsilím nesrovnatelně větší množství času oproti správně upravené stránce. Pokud mu nedojde trpělivost.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Přitom řešení není zdaleka tak komplikované, jak by se mohlo zdát. Národní instituce mají k dispozici vysoké množství opravdu kvalitních informací. Jediné, co jejich ideálnímu využití brání, je pouze správná forma a způsob, jak je dostat ke koncovému uživateli. Bylo by zajímavé zjistit, kolik institucí před zadáváním tvorby nějakého veřejného portálu konzultovalo požadavky, které na ně kladou jejich cíloví uživatelé. Tito jsou přeci ti zásadní, kolem jejichž podnětů se mají informační systémy budovat.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Shazovat současnou situaci je snadné. Pouze u toho ovšem zůstat nechceme. Rádi bychom pomocí našeho projektu ukázali vybraným zástupcům státní správy, že řešení nejsou zase tak náročná na provedení a při jejich zavedení mohou mít uživatelé nesrovnatelně lepší výsledky při používání zmiňovaných portálů. Což vyústí ve spokojené klienty úřadů a méně práce pro samotné úředníky. Řeklo by se - výhodná situace pro obě strany.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Rádi bychom propojili zástupce z komunit, které se právě uživatelskou přívětivostí zabývají ve své profesní činnosti se zástupci státní sféry, kteří mají zodpovědnost za zadávání dokumentace při tvorbě státních portálů. Nedílnou součástí procesu je také validace toho, jestli zhotovitel systému splnil zadání. Rádi bychom zástupcům státu pomocí propojení s odborníky z komerční sféry ukázali, že není zase tak komplikované vytvořit kvalitně provedenou zadávací dokumentaci společně s výstupními kritérii, která pomohou zajistit vysokou míru použitelnosti výsledných portálů.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Právě použitelnost výsledku pro cílové uživatele by měla být hlavním faktorem při hodnocení kvality výsledku. Myslíme si, že toto je v české veřejné správě trvale přehlíženo (čest výjimkám) a rádi bychom se pomocí našeho projektu zasadili o změnu vnímání této problematiky. Ve výsledku by to mohlo pomoci všem, kteří by měli zájem využívat služeb českého e-governmentu. Moderní země 21. století by si to jistě zasloužila.
+	</p>
+</div>","Modení stát v 21. století by si zasloužil kvalitně fungující e-government portály. Cesta k jejich dosažení není tak spletitá, jak by se na první pohled mohlo zdát. Naše vize je propojit odborníky z komerčního prostředí s odpovědnými lidmi ve státní správě a těmto ukázat, že dosáhnout dobře použitelných portálů není tak obtížné, jak by se na první pohled mohlo zdát.","full_html"
+"node","blog","0","13","13","und","0","<div class=""perex"">
+<p>
+	Naším cílem je otevřít debatu na téma <em>použitelnosti</em> webů provozovaných státem. Jsme přesvědčeni o tom, že stav veřejných informačních systémů v ČR neodpovídá současným standardům a trendům, které lze pozorovat v zahraničí.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+
+Přijďte na <strong><a href=""https://www.facebook.com/events/1571685546445336/"" class=""link"" target=""_blank"">naši akci</a></strong> a zapojte se do diskuze o tom, jaké nedostatky mají testované weby, a co brání jejich uživatelské přívětivosti.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	První akce se uskuteční <strong>21. dubna od 18 hodin v prostorách společnosti Webnode.</strong>
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	Na programu je procházení dvou vybraných webů pomocí jednoduchých scénářů, které simulují typické potřeby občanů. Role moderátora se ujme odborník na user experience, zakladatel <a href=""http://www.uxakademie.eu/"" class=""link"" target=""_blank"">UX Akademie</a> – <a href=""http://berkaux.com/"" class=""link"" target=""_blank""> Berka</a>
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	Závěry z testování i následné diskuse budeme prezentovat online, ale také je předložíme vybraným zástupcům z řad veřejné správy.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	V návaznosti na první akci (testování) proběhne druhá událost zaměřená na diskusi nad obecnějšími problémy českého e-governmentu a jejich možným řešením. Pobavíme se o tom, co by prospělo digitálním službám státu.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	Těšíme se na Vaši účast a názory.
+	</p>
+</div>","Naším cílem je otevřít debatu na téma použitelnosti webů provozovaných státem. Jsme přesvědčeni o tom, že současný stav veřejných informačních systémů v ČR neodpovídá současným standardům a trendům, které lze pozorovat v zahraničí. ","full_html"
+"node","blog","0","14","14","und","0","<div class=""perex"">
+V úterý 21. dubna jsme uspořádali první veřejné uživatelské testování pro přibližně 30 zájemců. S akcí nám pomohli dva dobrovolníci – testeři, které jsme oslovili ještě před akcí. Moderování se chopil zakladatel UX Akademie, Berka Berkaux.
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/testovani.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+Prvním testovaným webem byl portál <a href=""http://www.financnisprava.cz/"" target=""_blank"" class=""link"">Finanční správy.</a> Testování bylo koncipováno jako série šesti nezávislých úkolů, které jsme vytvořili zejména podle zaměření samotného webu. Pro ilustraci – jeden z úkolů pro portál Finanční správy zněl: “Rozhodujete se, jestli budete spolupracovat s firmou, která má IČO 26185610. Zjistěte, jak se firma jmenuje a jaký má základní kapitál.” Jedná se o situaci, se kterou se může uživatel tohoto portálu reálně setkat. Ostatní úkoly se nesly v podobném duchu.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Druhý portál jsme během přestávky změnili. Původně jsme měli v plánu otestovat <a href=""http://portal.gov.cz/portal/obcan/"" target=""_blank"" class=""link"">Portál veřejné správy.</a> Využili jsme však přítomnosti starosty Nového Města na Moravě, Michala Šmardy, který byl ochotný nechat přede všemi otestovat připravenost webu <a href=""https://www.nmnm.cz/"" class=""link"" target=""_blank"">Nové Město na Moravě</a> na řešení úkolů, na kterých se s Berkou o pauze dohodli. Ani jednou  se však testerovi (který na  podnět publika mohl využit i vyhledáváni v Google – nezačínal tudíž přímo na testovaném webu, jak tomu bylo v prvním případě) nepodařilo úspěšně dopracovat ke zdárnému cíli.
+	</p>
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/agilni_diskuze.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+<strong>Michal Šmarda</strong>, starosta Nového Města na Moravě:
+	</p>
+<blockquote>
+“Akcička pěkná. Inspirovalo mne to, abychom se trošku zamysleli nad celkovým přístupem ke struktuře informací na webu a nad způsobem zveřejňování. Chtělo by to nějak zapojit více měst a pokusit se o srovnání a výměnu zkušeností… A mrkvové jednohubky byly super. :)”
+</blockquote>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+V příštím týdnu přineseme podrobnější rozbor výsledků celého testování. Vášnivá debata, kterou testování pomohlo podnítit, byla přesně to, co jsme si od testování slibovali. Jsme velice rádi, že se nám podařilo rozpoutat diskuzi nad tím, jak dílčí portály fungují během interakce s koncovým uživatelem. Budeme se snažit co nejrychleji zpracovat zpětnou vazbu, kterou sbíráme od účastníků testování.
+	</p>
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/crowd.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+Testování poukázalo na to, že weby veřejné správy ne vždy fungují tak, jak bychom si přáli. Není na místě v tuto chvíli vinit konkrétní osobu či instituci. Chceme hlouběji prozkoumat příčiny, proč tomu tak je. Věříme, že i státní portály lze udělat kvalitně a s patřičným důrazem na koncové uživatele. Příští týden zde můžete očekávat podrobnější výstupy ze samotného testování.
+	</p>
+</div>","21. dubna jsme uspořádali otevřené veřejné testování webů veřejné správy. Jaké weby jsme vybrali a jak to celé dopadlo?","full_html"
+"node","blog","0","15","15","und","0","<div class=""perex"">
+Před dvěma týdny jsme  <a href=""http://www.pristupnejsistat.cz/jak-jsme-testovali-weby-verejne-spravy"" target=""_blank"" class=""link""> veřejně otestovali dva weby</a> – konkrétně portál<a href=""http://www.financnisprava.cz/"" class=""link"" target=""_blank"">Finanční správy</a> a na přání starosty Michala Šmardy i web obce<a href=""https://www.nmnm.cz/"" class=""link"" target=""_blank"">Nové město na Moravě.</a>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+Ukázalo, že dobrovolníci, kteří se weby odhodlali otestovat, mají opravdu problém se na stránkách orientovat. Uznáváme, že podmínky, ve kterých web používali, nebyly přirozené – vše se odehrávalo před zraky cca 30 diváků a dění na obrazovce se promítalo na velké plátno. Kromě toho se však objevilo množství dalších otázek, podnětů a inspirací, za což vděčíme jak divákům, kteří diskutovali už v průběhu akce, tak těm odvážným, kteří se s námi bavili i po oficiálním ukončení :)
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+Podařilo se nám dostat na jedno místo odborníky, politiky, studenty i vědce. Testovací večer naše aktivity neukončil. Naopak, po události se rozběhl maraton schůzek, porad, emailů, telefonátů a dlouhých facebookových diskusí.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+Je namístě se ptát - ""Co teď?"" Co dělat dále pro to, abychom pomohli stávající situaci zlepšit? Jsme teprve na začátku cesty, která vede k lepším digitálním službám státu. Aktuálně nás čeká několik úvodních testování webů samospráv, jejichž zástupci o naše služby projevili zájem. Tyto nám (a doufáme, že i širší veřejnosti) pomohou objektivněji zhodnotit aktuální podobu alespoň malé části webových portálů státní správy.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+V nejbližší době se budeme zabývat zejména těmito aktivitami:
+</p>
+<ul>
+<li><p>budeme mluvit s odborníky v oblasti použitelnosti webů (Máme už za sebou např. schůzku s Radkem Pavlíčkem.)</p></li>
+<li><p>na podnět radních otestujeme web <a href=""http://www.stred.brno.cz/"" class=""link"" target=""_blank"">Brna-střed</a> a naše výstupy budeme konzultovat se zástupci městské části, kteří mají správu webu na starosti</p>
+</li>
+<li>
+<p>
+potkáme se se slovenskými bratry z iniciativy  <a href=""http://www.tosaneda.sk/"" class=""link"" target=""_blank"">""To sa nedá""</a> (z webu: “Zameriavame sa na použiteľnosť štátnych webov. Meníme aj agresívne a nezrozumiteľné verejné oznamy okolo nás.”)
+</p>
+</li>
+<li>
+<p>
+když všechno půjde, jak má, kontaktujeme další starosty a vysvětlíme jim, jak dobré je testovat, a jak to může pomoct jejich webu, potažmo městu/obci
+</p>
+</li>
+</ul>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+A budeme naslouchat, diskutovat a testovat.
+</p>
+</div>","Povedlo se nám dostat na jedno místo odborníky, politiky, studenty i vědce. Testovací večer naše aktivity neukončil, naopak, po události se rozběhl maraton schůzek, porad, emailů, telefonátů a dlouhých facebookových diskusí.","full_html"
+"node","blog","0","16","16","und","0","<div class=""perex"">
+Když jsme s projektem počátkem roku začínali, měli jsme rámcovou představu o tom, čeho chceme dosáhnout. Věděli jsme, že bychom rádi pomohli prezentaci české veřejné správy tak, aby to odpovídalo trendům 21. století. Neměli jsme ale zcela jasno v tom, jakým způsobem toho dosáhnout, jaké mohou být příčiny současné situace, ani kdo jsou odpovědní lidé, kteří mohou změně současného stavu pomoci.</div>
+
+<div class=""blog-paragraph"">
+	<p>
+V posledních týdnech jsme se potkávali s lidmi, kteří o problematice mají mnohem větší povědomí než my. Tyto schůzky pro nás byly zásadní, pro získání informací, které potřebujeme, abychom dokázali problematice fungování veřejné správy plně porozumět.
+	</p>
+</div>
+
+<h2>Proč zrovna testování?</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Jedním z naších prvotních úkolů bylo přesvědčit odpovědné lidi o tom, že aktuální situace je tristní a její vylepšení by bylo prospěšné v několika rovinách. Nejvhodnějším nástrojem, jak poukázat na dílčí nedostatky, je uživatelské testování.	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Jsme si vědomi jeho limitů a také toho, že testování samotné žádnou změnu k lepšímu nepřináší. Slouží nám ""pouze"" jako nástroj, s jehož pomocí si validujeme náš předpoklad (tj. že některé weby veřejné správy nejsou úplně uživatelsky přívětivé pro uživatele). Výhodou této metody je, že umožňuje přicházet s výsledky v poměrně krátkém čase. Tyto je následně třeba zobecnit a poté jsme schopni označit problémová místa, které uživatelé během své interakce s weby nacházejí.	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Během testování se snažíme o maximální srozumitelnost. Jak ve vztahu s dobrovolníky, kteří vykonávají testovací scénáře, tak i ve vztahu s našimi zadavateli (tj. například obecní úřad). Snažíme se vše podrobně vysvětlovat, abychom předcházeli nejasnostem a spekulacím, které by mohly výsledky naší práce negativně ovlivnit.	</p>
+</div>
+
+<figure>
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani.jpg"" alt=""Otevřené testování"" class=""blog-pic""/>
+<figcaption>Průběh jednoho z provedených testování, které probíhalo ve velice příjemné atmosféře</figcaption>
+</figure>
+<h2>Na čem aktuálně pracujeme</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+V současnosti jsme ve fázi finalizace prvního kola testování redesignovaného webu pro městskou část Brno-střed. Se zástupci této části jsme se domluvili, že otestujeme redesignovanou podobu městského webu. Byť tato nová podoba ještě není zveřejněná, městská část by ráda zjistila, jestli je pro uživatele dostatečně přívětivá. Vedení si takto s naší pomocí chce ověřit, že nová verze bude pro občany dobře použitelná. Oceňujeme jejich chuť se těmito věcmi zabývat. Věříme, že takových případů bude v budoucnu přibývat (nejen na Brně-střed).	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Byť se může na první pohled jevit testování městského webu jako nudná činnost, opak je pravdou. Při vyřizování poměrně běžné agendy jsme pozorovali v průběhu testování opakující se problémy, které uživatelům stěžovaly dosahování svých cílů. Kompletní výsledky tohoto testování budou shrnuty v nějakém z následujících článků.	</p>
+</div>
+
+<h2>K čemu to všechno bude?</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Vzhledem k rychlému tempu na poli informačních technologií je digitální prezentace čím dál důležitější. Veřejná správa v tomto není výjimkou. Pokud je vyřešena kvalitně, dokáže uživatelům usnadnit rutinní úkoly a snížit zatížení pracovníkům ve veřejném sektoru. Je to tedy výhodná situace pro obě strany.	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Myslíme si, že je třeba uživatelům veřejného sektoru přinášet maximálně kvalitní služby. Ať už ve světě digitálním či fyzickém. Dává nám smysl zlepšování přístupnosti služeb státu (v rámci našeho projektu se aktuálně zabýváme zejména tou digitální částí). Byli bychom rádi, kdyby naše snažení umožnilo tyto věci zlepšit.	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Pokud máte pocit, že na to jdeme špatně, něco nám nedochází, nebo máte nějaký nápad či připomínku, budeme rádi, když se <a href=""http://www.pristupnejsistat.cz/contact"" class=""link"">nám ozvete</a>. Maximálně oceňujeme zpětnou vazbu, ať už negativní, či pozitivní.</p>
+</div>
+","Když jsme s projektem počátkem roku začínali, měli jsme rámcovou představu o tom, čeho chceme dosáhnout. Věděli jsme, že bychom rádi pomohli prezentaci české veřejné správy tak, aby to odpovídalo trendům 21. století. Neměli jsme ale zcela jasno v tom, jakým způsobem toho dosáhnout, jaké mohou být příčiny současné situace, ani kdo jsou odpovědní lidé, kteří mohou změně současného stavu pomoci.","full_html"
+"node","blog","0","17","17","und","0","Have you ever experienced trying to find specific information on some website and this task was JUST IMPOSSIBLE?
+
+There's a website, that contains full overview about Czech republic, its history, culture, business opportunities and other usable things. We, namely people behind the project Přístupnější stát, still think, that this website is not fully usable. It's not as straightforward to find some information there as it could be and its usage is not that easy.
+
+We're planning to conduct several usability tests, that are supposed to verify whether that website is usable for ordinary people or not. We try to reach better services for people in Czech republic, be it someone from abroad or a native.
+
+It would be a pleasure to invite you if you have a spare hour for our project and you are willing to spend it in one of the Brno's cafés of your choice. In case your'e interested, let us know on email info@pristupnejsistat.cz or write a private message.
+
+It would be really cool to meet up so that we can help to increase the quality of services, that are now available for all users of mentioned website :)
+
+Our project is supported by UX Akademie (http://uxakademie.cz) which is one of the market's leading company for providing education in digital economy.
+
+We're really looking forward to meeting people, that are positive about opportunities, that are possible thanks to digital technologies!
+
+Take care,
+Tom, Lucia, Michal and Erik (team Přístupnější stát)","We are looking for volunteers to help us improve the website about Czech republic.","filtered_html"
+"node","blog","0","18","18","und","0","<div class=""perex"">Zástupci městské části Brno-střed připravili ve spolupráci s externím dodavatelem nový web pro své občany. Tento informační portál zatím nebyl nasazen na doménu <a href=""http://www.brno-stred.cz/"" target=""_blank"">www.brno-stred.cz</a>. Než se tak stane, chce si radní <strong>Svatopluk Bartík</strong> (<a href=""http://www.zitbrno.cz/"" target=""_blank"">Žít Brno</a>) a jeho kolegové ověřit, že redesignovaný web je schopný nahradit ten stávající a působí také lepším dojmem na uživatele. Zástupci Brna-střed nás oslovili, jestli bychom jim nepomohli zjistit, jak je na tom nový web s použitelností. My jsme rádi souhlasili a v tomto textu se vám pokusíme přiblížit, co vše jsme udělali pro výslednou analýzu použitelnosti.</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani.jpg"" alt=""Otevřené testování"" class=""blog-pic""/>
+
+<div class=""blog-paragraph"">
+<p>
+Pokud chcete mít dobrý web a stojíte před jeho navrhováním, doporučujeme zaměřit se na potřeby budoucích uživatelů a vzít při tom v potaz také jejich zkušenosti s používáním internetu. Jestliže už máte web a chcete pouze zjistit, jestli je kvalitní, máte několik možností. A právě námi využívané <strong>uživatelské testování</strong> je jednou z dostupných metod. Zabýváme se uživatelským testováním především proto, že tím získáváme přímou zpětnou vazbu od těch nejdůležitějších – na které se paradoxně při (re)designu mnohdy zapomíná – od uživatelů. Princip je jednoduchý: dáte dohromady sadu úkolů, s jejichž pomocí otestujete web nemilosrdně vystavený vybraným uživatelům.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>Důležitým předpokladem pro kvalitní testování (a hodnotné výsledky) je správná formulace úkolů a dobrý výběr testujících uživatelů. My jsme se snažili čerpat z dostupných zkušeností lidí, kteří řeší problémy a dotazy občanů na denní bázi. Na formulaci úkolů jsme proto spolupracovali s Danielem Zemanem, komunikačním a projektovým pracovníkem Brna-střed.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+<strong>Zde uvádíme testovací scénáře, které jsme při testování webu Brna-střed použili:</strong>
+</p>
+<ul>
+<li><p>Přestěhoval(a) jste se za prací do Brna. Máte v plánu změnit si trvalé bydliště na adresu Vámi pronajatého bytu. Zjistěte, jak lze adresu změnit.</p></li>
+<li><p>Máte zájem o pronájem obecního bytu. Zjistěte, jaké informace je nutné během žádosti poskytnout úřadu a s kým ve věci komunikovat.</p></li>
+<li><p>Ke změně adresy se váže povinnost platit pravidelné poplatky za komunální odpad. Pokuste se zjistit jejich aktuální výši, datum, do kdy je třeba je pro letošní rok zaplatit a způsob, jakým lze platbu provést.</p></li>
+<li><p>Do nového bytu si chcete pořídit pejska. Pokuste se zjistit, jaké povinnosti se vážou k vlastnictví zvířete.</p></li>
+<li><p>Od nového školního roku má Vaše dítě nastoupit do mateřské školy. Zjistěte, které mateřské školy spadají k Vaší adrese. Nějakou z nich vyberte a zjistěte, co vše je třeba před úspěšným zápisem vykonat, aby zápis proběhl hladce.
+</p></li>
+</ul>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+Pomocí úkolů jsme se snažili vyvolat modelové situace, kdy uživatel webu potřebuje něco zjistit nebo zařídit.  Postupně jsme zadávali výše zmíněné úkoly vybraným uživatelům webu, nezaujatě je pozorovali při jejich plnění a důkladně zaznamenávali, co a jak dělají. Průchod webem měl vždy jasně definovaný cíl. Věděli jsme, kam uživatelé míří, a s přispěním jejich živých komentářů jsme měli i částečný přehled o motivaci – proč dělají to, co právě dělají.
+</p>
+</div>
+
+<h2>Jak jsme vybírali uživatele – testery</h2>
+<div class=""blog-paragraph"">
+<p>
+Než jsme začali s oslovováním dobrovolníků, kteří by nám pomohli otestovat web Brna-střed, stanovili jsme si kritéria pro jejich profil. Obecně se dá říci, že testeři musí spadat do skupiny potenciálních uživatelů webu a ideálně bez zkušenosti s jeho používáním. V našem případě jsme pracovali se skupinou lidí žijících v Brně. Abychom získali více podnětů, snažili jsme se při výběru zohledňovat také věkovou a profesní různorodost, díky čemuž v konečném „vzorku“ pěti potenciálních uživatelů byli zahrnuti lidé od 26 let do 47 let, ženy i muži, technického i humanitního zaměření. Může se vám zdát, že počet pět testujících je malý, ale podle zkušených odborníků publikujících na webu <a href=""http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/"" target=""_blank"">NN Group</a> se jedná o dostatečné množství pro zjištění většiny zásadních nedostatků. Mezi naše dobrovolníky patřil technolog, šéfredaktorka časopisu, IT specialista, zdravotní sestra a koordinátorka klinických studií. Vskutku pestrá skupina.
+</p>
+</div>
+
+<h2>Kde všude jsme testovali, a jak to vypadalo</h2>
+<div class=""blog-paragraph"">
+<p>
+Naší taktikou bylo vyjít maximálně vstříc uživatelům, kteří nám pomáhali s testováním. Ptali jsme se jich, jaké místo je pro ně nejlepší a snažili jsme se tomu přizpůsobit. Testovali jsme v kavárnách a nebyla výjimkou ani návštěva doma na zahradě. Velká část uživatelů dnes využívá k přístupu na internet notebook, jsou díky tomu mobilní a schopní vyhledávat informace téměř kdekoli.
+</p>
+</div>
+
+<blockquote>Není třeba se bát, testujeme webové stránky, ne vás. Toto je jediný test, ve kterém nemůžete udělat chybu.</blockquote>
+
+<div class=""blog-paragraph"">
+<p>
+Postup testování byl vždy stejný. Jeden z nás domluvil s uživatelem čas a místo setkání a ve dvoučlenném týmu jsme v daný den a hodinu vyrazlili. Z dostupných metodik víme, jak je důležité být v početní převaze: jeden z nás měl vždy roli komunikátora, druhý roli zapisovatele. A fungovalo to skvěle! Začali jsme stručným představením webu a metody uživatelského testování. Často měli dobrovolníci obavy z toho, že něco udělají špatně a pokazí tak testování. My jsme je ubezpečovali, že jediná chyba, jakou můžou udělat, je v tomto případě malá sdílnost. Opravdu, uživatelské testování je postavené na přirozeném průchodu webem a pozorování. Důležité je, aby tester vyjadřoval názor na to, co vidí, a proto jsme vždy říkali “myslete nahlas, nebojte se říct své dojmy a záměry”.
+</p>
+</div>
+
+<h2>Na co jsme přišli při testování</h2>
+<div class=""blog-paragraph"">
+<p>
+Při průchodu webem čekalo naše dobrovolníky mnoho překvapení a někdy dokonce nástrah. Jak je patrné ze seznamu úkolů výše, testovali jsme vyhledatelnost informací u základních životních situací, které mohou potkat (a pravděpodobně potkají) každého z nás. Jak si změnit trvalé bydliště, formality nutné k vyřízení při pronájmu obecního bytu, poplatky za komunální odpad, povinnosti vyplývající k vlastnictví zvířete a spádová oblast mateřských škol – to všechno jsou informace, které patří na webové stránky městské části a občané je zde hledají.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>Při sledování uživatelů, kteří plní zadané úkoly, jsme přišli na to, že po odchodu z homepage na jakoukoli stránku se nemají jak vrátit zpět. Návrat na domovskou stránku by měl být samozřejmostí už proto, že poskytuje výchozí bod pro jakékoli hledání. Zjistili jsme problém s pojmenováním sekce nazvané Středobody. Jde o slovní hříčku, ale bohužel na úkor srozumitelnosti. Dále jsme identifikovali několik prvků, které podle reakcí uživatelů působili interaktivním dojmem, ale pouze jejich část fungovala jako tlačítko. Uživatelé měli také problém s prezentací většiny potřebných informací v PDF dokumentu, který je nutné stáhnout. Sami jsme zhodnotili toto řešení jako nepříliš šťastné vzhledem k tomu, že klade zbytečnou překážku mezi hledající a hledané.
+</p>
+</div>
+
+<img src=""http://i.imgur.com/glJXxJi.jpg"" alt=""homepage"" class=""blog-pic""/>
+<small><small><small>Vstupní stránka má fungovat jako rozcestník, z něhož uživatel co možná nejrychleji odejde na stránku s obsahem, který hledá. Uživatelům se tato homepage líbila a zdála se jim i  přehledná, ale bohužel celkový dojem zhoršuje špatná čitelnost spodních odkazů (malý kontrast pozadí) a nejasný název sekce Středobody.
+</small></small></small>
+<hr>
+
+<img src=""http://i.imgur.com/n4azelG.jpg"" alt=""dlaždice"" class=""blog-pic""/>
+<small><small><small>Na webu Brna-střed uplatnili designéři zavedený koncept životních situací, tzn. standard pro strukturu informací, které občané hledají. Z naší zkušenosti víme, že nejde o řešení vedoucí k nejrychlejšímu nalezení požadované informace. Situaci navíc ztěžoval fakt, že jednotlivé životní situace se po prokliku zobrazují pod viditelnou částí stránky a nic nenasvědčuje změně obsahu na stránce. Uživatelé byli zmatení, protože si mysleli, že odkazy v mřížce nefungují.</small></small></small>
+<hr>
+
+<img src=""http://i.imgur.com/uZDFD4i.png"" alt=""PDF"" class=""blog-pic""/>
+<small><small><small>Důležité informace prezentované pouze v PDF formátu.</small></small></small>
+
+<hr>
+
+<div class=""blog-paragraph"">
+<p>
+Naši dobrovolníci byli chytří a vzdělaní lidé, kteří jsou zvyklí používat počítač denně, a přesto na novém webu Brna-střed naráželi na komplikace. Nemůžeme tvrdit, že jde o jejich neschopnost. Lidé se nemají přizpůsobovat technice, ale technika se má řídit potřebami lidí. Designér by měl znát alespoň rámcově uživatele toho, co navrhuje. Alespoň to tvrdí specialisté na human centred a UX design, a toto stanovisko zastáváme i my, lidé z projektu Přístupnější stát.
+</p>
+</div>
+
+<div class=""landing-page-part"">
+	<div class=""call-to-action"">
+		<p>
+<strong>Víte o webu, kterému by testování také prospělo? <a href=""http://www.pristupnejsistat.cz/contact"" alt=""Kontaktní formulář"" class=""link"">Dejte nám  tip, anebo se k nám rovnou připojte!</a> </strong>
+</p>
+	</div>
+</div>
+</div>
+","Zástupci městské části Brno-střed připravili ve spolupráci s externím dodavatelem nový web pro své občany. Tento informační portál zatím nebyl nasazen na doménu brno-stred.cz. Než se tak stane, chce si radní Svatopluk Bartík (Žít Brno) a jeho kolegové ověřit, že redesignovaný web je schopný nahradit ten stávající a působí také lepším dojmem na uživatele. Zástupci Brna-střed nás oslovili, jestli bychom jim nepomohli zjistit, jak je na tom nový web s použitelností. My jsme rádi souhlasili a v tomto textu se vám pokusíme přiblížit, co vše jsme udělali pro výslednou analýzu použitelnosti.","full_html"
+"node","blog","0","19","19","und","0","<div class=""perex"">
+Jelikož je pro nás uživatelské testování v tuto chvíli základní metodou, kterou při své práci používáme, myslíme si, že je zásadní tuto metodu trochu osvětlit. Přeložili jsme tedy článek z portálu usability.gov, který se uživatelským testováním zabývá.</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Uživatelské testování dává možnost vývojovým týmům předvídat problémy před tím, než se objeví. Čím dříve jsou problémy identifikovány a vyřešeny, tím méně závažné budou změny jednak co se týče času na jejich opravě strávené, tak co se týče dopadu na projekt. V průběhu uživatelského testování budete dělat tyto věci:	</p>
+</div>
+
+<ul>
+<li>pozorovat, jestli dokáží uživatelé splnit konkrétní úkoly úspěšně,</li>
+<li>identifikovat, jak dlouho jim trvá řešení jejich úkolů,</li>
+<li>zjišťovat, jak jsou vaši účastníci spokojeni s vaší webovou stránkou či jiným produktem,</li>
+<li>identifikovat změny nutné ke zvýšení spokojenosti uživatelů,</li>
+<li>analyzovat současný stav aplikace či webu pro zjištění, jestli jste splnili kritéria použitelnosti.</li>
+</ul>
+
+<h2>Nepotřebujete mít profesionální laboratoř</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Pro efektivní uživatelské testování nepotřebujete formální laboratoř. Testování lze úspěšně jedním z následujících způsobů:
+</p>
+</div>
+
+<ul>
+<li>pevná laboratoř se dvěma až třemi spojenými pokoji vybavená s audio-vizuální technikou,</li>
+<li>pokoj s přenosným nahrávacím zařízením,</li>
+<li>pokoj bez nahrávacího zařízení za předpokladu, že je přítomen pozorovatel a zapisovatel testování,</li>
+<li>vzdáleně - když je uživatel fyzicky jinde (ať už moderovaně, či nemoderovaně).</li>
+</ul>
+
+<h2>Faktory ovlivňující cenu testování
+</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Cena vašeho testování závisí na:
+
+</p>
+</div>
+
+<ul>
+<li>typu provedeného testování,</li>
+<li>velikosti týmu sestaveného pro testování,</li>
+<li>počtu účastníků testování,</li>
+<li>množství času, který věnujete testování.</li>
+</ul>
+
+<div class=""blog-paragraph"">
+	<p>
+Nezapomínejte plánovat pro více než jeden test použitelnosti. Zapracování prvků použitelnosti na webovou stránku (nebo jakýkoli jiný produkt) je postupný proces. Nejdůležitejší prvky ovlivňující plánování uživatelského testování:
+</p>
+</div>
+
+<ul>
+<li><b>Čas:</b> Budete potřebovat čas pro plánování testu použitelnosti. Bude třeba, aby se seznámil odborník na použitelnost se svým týmem a vypracoval testovací scénáře. Mimo samotné plánování nezapomínejte na ostatní části testování jako ověřování faktů, analýza dat či prezentaci zjištěných výsledků.</li>
+<li><b>Cena za nábor:</b> Přemýšlejte nad tím jak a kde budete získávat účastníky testování. Buď budete potřebovat čas vašich náborářů pro získání účastníků nebo bude třeba zajistit služby externích personalistů pro zisk účastníků podle zadaných požadavků</li>
+<li><b>Kompenzace participantům: </b>Pokud máte v plánu účastníkům kompenzovat jejich účast, zohledněte to do svého testovacího rozpočtu</li>
+<li><b>Pronájem: </b>Pokud nemáte vybavení pro sledování nebo nahrávání, budete potřebovat počítat i s rozpočtem pronájmu laboratoře a ostatní vybavení. Možná budete potřebovat zajistit místo pro testování (kupříkladu konferenční místnost), nezapomeňte i podobné faktory zohlednit v plánovací fázi</li>
+<li>Je nutné si neustále připomínat, že uživatelské testování není jen další položka pro odškrtnutí ze seznamu úkolů projektu. Tím by měl mít cíl, kvůli kterému je testování prováděno a následně i díky zjištěným faktům v průběhu testování se nám jej podaří dosáhnout.</li>
+</ul>","Jelikož je pro nás uživatelské testování v tuto chvíli základní metodou, kterou při své práci používáme, myslíme si, že je zásadní tuto metodu trochu osvětlit. Přeložili jsme tedy článek z portálu usability.gov, který se uživatelským testováním zabývá.","full_html"
+"node","page","0","4","4","und","0","<h1>Členové týmu přístupnějšího státu</h1>
+
+<h2>Tomáš Arnot</h2>
+
+<h2>Lucia Barthová</h2>
+
+<h2>Vojtěch Kurka</h2>
+
+<h2>Erik Vaněk</h2>","Představení zakládajích členů týmu Přístupnějšího státu","full_html"
+"node","article","0","5","5","und","0","Jakub Mráček, jeden z přednášejících na nedávné DataConf, pronesl větu, která nás velmi zaujala:
+
+""Stát je pouze korporace. A k tomu ještě neefektivní.""
+
+O den později jsem narazil na tento zajímavý článek, kterého bych si bez zmíněného názoru ani nevšiml. Autor v něm popisuje zkušenosti s vývojem a testování UX rozhraní a ověřování jeho použitelnosti v prostředí korporace.
+
+Z tohoto článku bychom tedy mohli (a měli) čerpat cenné informace a zkušenosti o tom, jak se chovat a jak nechovat při kontaktu s veřejnou správou.","Sumář tohoto blogpostu, který je prvním ze série článků, které se snaží","filtered_html"
+"node","page","0","6","6","und","0","<div class=""landing-page-part"">
+<p>
+Cílem projektu Přístupnější stát je šíření osvěty v oblasti <em>použitelnosti</em> webů a informačních systému veřejné správy. Nejsme spokojeni se zastaralou podobou webů veřejné správy, která velice pomalu reflektuje rychle se měnící požadavky kladené na soudobé webové portály. Na druhou stranu mají právě veřejné instituce k dispozici velké množství kvalitních informací. Je tedy velká škoda, že je často nelze adekvátně prezentovat.
+</p>
+
+<p>
+Chceme podnítit konstruktivní diskuzi na toto téma a propojit osoby, které mají šanci se stávající situaci něco udělat. Mezi zástupce této skupiny řadíme tvůrce samotných webů, politiky a veřejné zastupitele a také odborníky na téma uživatelské přívětivosti informačních systémů.
+</p>
+<p>
+	V České republice máme <a href=""https://www.sluzby-isvs.cz/ISoISVS/Reports/CelkoveSumy.aspx"" target=""_blank"" class=""link"">6 435</a> veřejných informačních systémů, na jejichž provoz je každý rok vynaloženo více jak 24 miliard korun. Stát má povinnost zveřejňovat určité informace, a proto vzniká spousta webových stránek a aplikací, které poskytují přístup k informacím. Bohužel, mnohdy stačí zajistit dostupnost informací online, ale nad použitelností systému se nikdo nezamýšlí.
+</p>
+</div>
+
+<div class=""landing-page-part"">
+
+</div>
+
+<div class=""landing-page-part featured"">
+	<h2>Měřítka kvality dnes</h2>
+	<div class=""featured-part featured-icon"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/metrika.jpg""/>
+	</div>
+
+	<div class=""featured-content"">
+
+		<p>
+			Při navrhování veřejných informačních systémů pro občany je závazná vyhláška č. 64/2008 Sb. a metodika, která na vyhlášku navazuje. Tyto dokumenty jsou zastaralé, zaměřené na technické specifikace, ale hlavně: jejich naplnění nedokáže zajistit použitelnost informačních systémů. Dokumenty zcela přehlížejí potřeby koncových uživatelů.
+		</p>
+	</div>
+</div>
+
+<div class=""landing-page-part featured"">
+<h2>Jak posuzujeme použitelnost?</h2>
+<div class=""featured-part featured-icon"">
+	<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/posuzovani.jpg""/>
+</div>
+
+<div class=""featured-content featured-part"">
+
+	<p>
+		Ptáme se a ověřujeme. Naším úkolem je zjistit, jestli je rozhraní informačního systému zaměřeno na uživatele a jejich reálné potřeby. Systémy testujeme a ověřujeme průchod reálných uživatelů při zadaných úkolech. Veřejný IS chápeme jako službu občanům, díky které mohou získat snadnější přístup k informacím.
+	</p>
+</div>
+
+</div>
+
+<div class=""landing-page-part featured"">
+	<h2 id=""govuk-header"">Inspirovali jsme se kolegy ze zahraničí</h2>
+
+	<div class=""featured-part featured-icon"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/inspirace.jpg""/>
+	</div>
+
+	<div class=""featured-content"">
+	<p>
+		Na správnou cestu se v nedávné minulosti vydala i Velká Británie. Její <a href=""https://www.gov.uk/government/organisations/government-digital-service"" class=""link"" target=""_blank"">Government Digital Service</a> je krásnou ukázkou toho, že lze elektronizovat státní správu kvalitně a efektivně. Rádi bychom se pokusili o něco podobného i v České republice.
+	</p>
+		<blockquote>""We help government make digital services and information simpler, clearer and faster. We put users' needs before the needs of government.""</blockquote>
+	</div>
+
+<a href=""https://www.gov.uk/government/organisations/government-digital-service"" target=""_blank"" id=""govuk-link""><img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/gds.jpg""/></a>
+
+
+</div>
+
+<div class=""landing-page-part"">
+	<h2>Největší výzvy nás teprve čekají</h2>
+	<ul>
+		<li><span class=""fa fa-check-circle"">Veřejné testování použitelnosti</span></li>
+		<li><span class=""fa fa-check-circle"">Průběžné informování o nedostatcích a limitech současných IS</span></li>
+		<li><span class=""fa fa-check-circle"">Prezentace nedostatků a diskuse nad možnostmi změny</span></li>
+	</ul>
+</div>
+
+<div class=""landing-page-part"">
+	<div class=""call-to-action"">
+		<p>
+			Víte o veřejném IS, který bychom měli otestovat? <a href=""http://www.pristupnejsistat.cz/contact"" alt=""Kontaktní formulář"" class=""link"">Napište nám</a> o něm.
+		</p>
+	</div>
+</div>
+
+<div class=""landing-page-part"">
+	<h2>Kdo jsme</h2>
+	<p>
+		Jsme skupina mladých lidí, která se snaží uskutečnit dobrou věc. Máme různá povolání, ale spojuje nás obor Informační studia a knihovnictví na Filozofické fakultě Masarykovy univerzity. Projekt Přístupnější stát začal jako školní projekt, ale ambice má mnohem větší!
+	</p>
+
+<div class=""member-profile"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/tom_small.jpg"" alt=""Portrét Tomáše Arnota"" />
+		<h3>Tomáš Arnot</h3>
+
+		<p>Tomáš vystudoval Estetiku na Masarykově univerzitě, pracoval v neziskové organizaci, galerii výtvarného umění i jako plavčík u Vodní záchranné služby. V současné době se specializuje na design služeb a pracuje jako projekt manager ve společnosti CYRRUS MARKETING. Rád zajde na dobrou výstavu, do divadla, nebo jen tak si zaběhat. Inspiruje a nechává se inspirovat.</p>
+		<blockquote>""Do projektu jsem se zapojil, protože chci změnit věci k lepšímu. Angažovanost je životní postoj.""</blockquote>
+		<div class=""member-links"">
+			<a href=""mailto:tom@pristupnejsistat.cz"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-envelope fa-stack-2x""></i><i class=""fa fa-envelope fa-stack-1x fa-inverse""></i></span></a><a href=""http://cz.linkedin.com/in/arnot"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-linkedin fa-stack-2x""></i><i class=""fa fa-linkedin fa-stack-1x fa-inverse""></i></span></a><a href=""https://twitter.com/TomasArnot"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-twitter fa-stack-2x""></i><i class=""fa fa-twitter fa-stack-1x fa-inverse""></i></span></a>
+		</div>
+	</div>
+
+<div class=""member-profile"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/lucia_small.jpg"" alt=""Portrét Lucie Barthové"" />
+		<h3>Lucia Barthová</h3>
+		<p>Lucia studuje Informační studia a knihovnictví, zajímá se o design služeb, datovou analytiku a UX design, kterému se věnovala i ve své bakalářské práci. Živí ji marketing v obchodní firmě, kde kromě správy webu, e-shopu a sociálních sítí spoluorganizuje eventy pro klienty. Kromě toho hraje v kapele a ráda sleduje britské sitcomy.</p>
+		<blockquote>""Přístupnější stát je pro mne způsobem, jak se realizovat ve věcech, které mají opravdu smysl. Na první místo totiž klademe člověka a jeho potřeby. Chceme ukázat, že to jde i jinak!""</blockquote>
+		<div class=""member-links"">
+			<a href=""mailto:lucia@pristupnejsistat.cz"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-envelope fa-stack-2x""></i><i class=""fa fa-envelope fa-stack-1x fa-inverse""></i></span></a><a href=""https://www.linkedin.com/pub/lucia-barthov%C3%A1/28/583/36?domainCountryName=&csrfToken=ajax%3A3350373226467697609"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-linkedin fa-stack-2x""></i><i class=""fa fa-linkedin fa-stack-1x fa-inverse""></i></span></a><a href=""https://twitter.com/luciabarthova"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-twitter fa-stack-2x""></i><i class=""fa fa-twitter fa-stack-1x fa-inverse""></i></span></a>
+		</div>
+	</div>
+
+	<div class=""member-profile"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/vojta_small.jpg"" alt=""Portrét Vojty Kurky"" />
+		<h3>Vojtěch Kurka</h3>
+		<p>Vojta má vystudovanou informatiku na VUT a nyní je datovým analytikem ve firmě Webnode. Rád se v práci i mimo ní zabývá webovou analytikou a hledáním problémů, na které může běžný uživatel webových stránek narazit. Vyžívá se v identifikaci a vyřešení problémových míst při procházení webovými stránkami a až na první místo klade příjemný uživatelský zážitek.</p>
+		<blockquote>""Web by měl být co nejpřirozenější pro bězného člověka. Rozhodně by neměl stát mezi uživatelem a informacemi, které chce. Web tu je pro lidi, ne lidi pro něj.""</blockquote>
+		<div class=""member-links"">
+			<a href=""mailto:vojta@pristupnejsistat.cz"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-envelope fa-stack-2x""></i><i class=""fa fa-envelope fa-stack-1x fa-inverse""></i></span></a><a href=""https://cz.linkedin.com/in/kurkavojtech"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-linkedin fa-stack-2x""></i><i class=""fa fa-linkedin fa-stack-1x fa-inverse""></i></span></a><a href=""https://twitter.com/vojtano_k"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-twitter fa-stack-2x""></i><i class=""fa fa-twitter fa-stack-1x fa-inverse""></i></span></a>
+		</div>
+	</div>
+
+	<div class=""member-profile"">
+		<img src=""http://www.pristupnejsistat.cz/sites/all/themes/bootstrap_clean_blog/assets/img/erik_small.jpg"" alt=""Portrét Erika Vaňka"" />
+		<h3>Erik Vaněk</h3>
+		<p>Během svých studií oboru Počítačová grafika a zpracování obrazu měl Erik možnost spolupracovat s laboratoří zabývající se interakcí člověka s počítačem. Toto položilo základy jeho zájmu o obecnou použitelnost a správný návrh uživatelských rozhraní. Byť je aktuálně zaměstnán na pozici vývojáře, vždy se snaží dbát maximální důraz na koncového uživatele.</p>
+		<blockquote>""Když je tolik kvalitních českých vývojářů a designérů, proč musí být stav českého e-governmentu tak žalostný? Bylo by úžasné jej změnit k lepšímu!""</blockquote>
+		<div class=""member-links"">
+			<a href=""mailto:erik@pristupnejsistat.cz"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-envelope fa-stack-2x""></i><i class=""fa fa-envelope fa-stack-1x fa-inverse""></i></span></a><a href=""https://www.linkedin.com/in/erikvanek"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-linkedin fa-stack-2x""></i><i class=""fa fa-linkedin fa-stack-1x fa-inverse""></i></span></a><a href=""https://twitter.com/vanek_erik"" target=""_blank""><span class=""fa-stack fa-lg""><i class=""fa fa-circle fa-circle-twitter fa-stack-2x""></i><i class=""fa fa-twitter fa-stack-1x fa-inverse""></i></span></a>
+		</div>
+	</div>
+
+</div>
+
+<div class=""call-to-action"">
+	<p>
+		Zaujalo Vás, na čem pracujeme? <a href=""http://www.pristupnejsistat.cz/contact"" alt=""Kontaktní formulář"" class=""link"">Rádi uslyšíme Váš názor.</a> Přístupnější stát je tady pro kohokoli, kdo si myslí, že lze dělat český e-government kvalitněji a lépe pro všechny občany.
+	</p>
+</div>","Projekt Přístupnější stát - co si představujeme pod pojmem přístupnější stát","full_html"
+"node","page","0","9","9","und","0",,"login","filtered_html"
+"node","blog","0","10","10","und","0","<div class=""perex"">
+	Jako jeden ze svých zdrojů inspirace bereme britský tým GDS (Government Digital service) a jejich základních <a href=""https://www.gov.uk/design-principles"" class=""link"">10 designových principů</a>. Tento tým se od poloviny roku 2011 snaží o zavádění kvalitní digitalizace britské státní správy. Rádi bychom se o něco podobného v rámci našeho projektu pokusili i v rámci naší republiky. Níže naleznete překlad jednotlivých principů.
+</div>
+
+<ol>
+	<li>Začněte průzkumem potřeb</li>
+	<li>Méně je více</li>
+	<li>Designujte s pomocí dat</li>
+	<li>Tvrdě pracujte, aby nakonec bylo vše jednodušší</li>
+	<li>Iterujte. A potom iterujte znovu.</li>
+	<li>Myslete na všechny</li>
+	<li>Pochopte kontext</li>
+	<li>Tvořte digitální služby, ne webové stránky</li>
+	<li>Buďte konzistentní, ne uniformní</li>
+	<li>Otevřenost je dobrá věc</li>
+</ol>
+
+<div class=""blog-paragraph"">
+	<h3>1. Začněte průzkumem potřeb</h3>
+	<p>
+		Designový proces musí začít identifikací a zamyšlením se nad potřebami skutečných uživatelů. Musíte těmto potřebám důkladně porozumět – zkoumejte data, nejen domněnky. Měli byste pamatovat i na to, že uživatelé často vyžadují něco, co ve skutečnosti nepotřebují. Zkoumání potřeb se stává organizačním principem v momentě, kdy lidé vaše stránky, aby splnili nějaké úlohy a naplnili své potřeby – ne se jen dívali. Kladení důrazu na potřeby znamená, že se soustředíte na věci, které přinesou co největší hodnotu za co nejméně peněz.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>2. Méně je více</h3>
+	<p>
+		Stát by se měl věnovat jen tomu, čemu se věnovat má. Na vše ostatní stačí odkázat prostřednictvím vhodně umístěných odkazů. Pokud je vašich silách poskytovat zdroje (například API), které pomůžou ostatním lidem – udělejte to. Měli byste se koncentrovat na neredukovatelné jádro. Pokud se soustředíte jen na ty zdroje, které mohou být nejprospěšnější, vytvoříte tak lepší služby a ušetříte peníze.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>3. Designujte s pomocí dat</h3>
+	<p>
+		Uživatelé už vaše služby ve většině případů využívají. To znamená, že se můžete učit jejich chováním ve skutečném světě. Potom by měla následovat tvorba a zlepšování procesu – prototypování a testování s reálnými uživateli během živého provozu.
+	</p>
+	<p>
+		Digitální služby mají velkou výhodu – můžeme sledovat a učit se z chování uživatelů, tvarovat systém tak, aby přirozeně zapadl do toho, co si lidé vybírají. Namísto ohýbání lidí do ""umělého"" systému, který jsme vytvořili bez nich.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>4. Tvrdě pracujte, aby nakonec bylo vše jednodušší</h3>
+	<p>
+		Dělat věci tak, aby vypadaly jednoduše, je snadné. Dělat věci tak, aby jednoduše fungovaly je nesrovnatelně náročnější – obzvláště v případě, kdy je systém ve své podstatě komplikovaný. Ale právě zjednodušování je to, o co byste se měli snažit.
+	</p>
+	</p>
+		S mocí kráčí bok po boku i zodpovědnost – lidé často nemají jinou možnost, než využít právě vaše služby. Pokud nepracujete svědomitě, nesnažíte se tyto služby zjednodušovat a navrhovat je tak, aby byly užitečné, zneužíváte svoji moc a mrháte časem lidí.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>5. Iterujte. A potom iterujte znovu.</h3>
+	<p>
+		Nejlepším způsobem, jak budovat efektivní služby, je důkladně iterovat každý detail.
+	</p>
+	<p>
+		Testujte produkty s reálnými uživateli, vyzkoušejte beta verze a ptejte se lidí na názor. Iterace totiž snižují riziko. Velká selhání jsou nepravděpodobná a z malých se dokážete poučit. Tímto zabráníte tvorbě sáhodlouhých specifikačních dokumentů, z kterých nakonec zůstane platných jen pár stran.
+	</p>
+	<p>
+		Opět zde lze vidět výhodu digitálního světa: nestavíme přece mosty – věci můžeme lehce vrátit do původního stavu.
+	</p>
+</div>
+
+
+<div class=""blog-paragraph"">
+	<h3>6. Myslete na všechny</h3>
+	<p>
+		Přístupný design je dobrý design. Měli byste vytvářet ty nejkompletnější a nejčitelnější produkty, které lze vytvořit. Pokud přitom musíte obětovat eleganci – nevadí. Neměli byste mít strach z toho, co je očividné a snažit se přetvořit konvence webdesignu. Naopak – měli byste jasně naplnit očekávání.
+	</p>
+	<p>
+		Designujte pro celou krajinu – nejen pro ty, kteří jsou na používání webu zvyklí. Ve skutečnosti mají ti lidé, kteří potřebují naše služby nejvíce, největší problémy s jejich použitím. Když budete na tyto lidi myslet už od samého počátku, podaří se vám vytvořit webové stránky pro každého.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>7. Pochopte kontext</h3>
+	<p>
+		Nedesignujte pro obrazovku, designujte pro lidi. Musíte důkladně přemýšlet, v jakém kontextu lidé vaše služby využívají. Jsou v knihovně? Jsou online na smartphonu? Znají Facebook? Používali už někdy předtím web?
+	</p>
+	<p>
+		Designujete pro neuvěřitelně rozmanitou skupinu uživatelů s odlišnými znalostmi technologií a rozličnými potřebami. Ujistěte se, že rozumíte technologickým a praktickým okolnostem, v kterých vaše služby využívají. V jiném případě riskujete, že vytvoříte krásné služby, které ovšem nebudou pro lidský život relevantní.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<h3>8. Tvořte digitální služby, ne webové stránky</h3>
+	<p>
+		Vaše služba nezačíná a nekončí vaší webovou stránkou. Může začít vyhledávačem a končit na poště. Musíte ji s přihlédnutím k těmto okolnostem i navrhovat. Je dobré si uvědomit, že jednoho dne, dříve než se to dozvíte, to bude zase o jiné digitální službě. Neměli byste se proto zabírat webovými stránkami. Měli byste se zabírat digitálními službami. Momentálně platí, že nejlepším způsobem, jak dodat digitální službu, je web. Ale toto se může změnit dříve, než na to budete připraveni.
+	</p>
+
+</div>
+
+
+<div class=""blog-paragraph"">
+	<h3>9. Buďte konzistentní, ne uniformní</h3>
+	<p>
+		Všude, kde je to možné, byste měli používat totožný jazyk a totožné designové vzory. Pomáhá to lidem se s vaší službou ztotožnit. Pokud to není možné, měli byste si ověřit, že váš základní přístup je konzistentní, aby měli uživatelé rozumnou šanci odhadnout, co v danou chvíli mají dělat.
+	</p>
+	<p>
+		Toto není svěrací kazajka nebo kniha pravidel. Skvělé služby nemůžete tvořit mechanicky. Nedokážete si představit všechny scénáře, které mohou nastat. Každá jedna okolnost je jedinečná a měla by být vyhodnocovaná na základě jiných podmínek.
+	</p>
+	<p>
+		Všechno by ale mělo být propojené konzistentním přístupem. Přístupem, kterému budou uživatelé rozumět a důvěřovat – a to i v případě, že se přesunete do digitální sféry.
+	</p>
+
+</div>
+
+
+<div class=""blog-paragraph"">
+	<h3>10. Otevřenost je dobrá věc</h3>
+	<p>
+		Kdekoli jste, měli byste sdílet to, co děláte. S kolegy, uživateli, světem. Sdílet kód, design, nápady, úmysly i selhání. Čím víc očí je uvidí, tím lepší vaše služby budou – vyhnete se chybám, do popředí se dostanou ty lepší alternativy a laťku si nastavíte ještě výše. Částečně také proto, že spousta z toho, co děláme, je možné jen díky otevřeným zdrojovým kódům a štědrosti webdesign komunity. Měli bychom se jim proto odvděčit. Větší otevřenost přispívá k lepší služby – k lepšímu porozumění a lepší kontrole. Když dáte k dispozici kód, dostanete jej zpět ještě lepší.
+	</p>
+</div>
+","Překlad základních deseti pravidel, kterými se řídí tým pracující v rámci organizace Gov.uk.","full_html"
+"node","blog","0","11","11","und","0","<div class=""perex"">
+	Až do přelomu minulého a současného tisíciletí by o existenci digitalizované podoby státního hospodaření málokdo uvažoval. Web byl pouze pro malou hrstku šťastlivců a většina stránek byla statických. Často se jednalo více či méně o prezentaci identity nějaké společnosti, instituce či sdružení.
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Toho času veřejné instituce využívaly web právě tak, jako soukromý sektor. Pouze pro statickou prezentaci informací, se kterou uživatel nemohl dál nijak interaktivně pracovat. Je nesporné, že mít možnost si z domu zjistit otevírací dobu dílčí instituce, přináší výhody. Doba ale pokročila a pomyslné nůžky mezi kvalitou služeb nabízenými státní správou a komerčním sektorem se znatelně rozevřely.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Bohužel oproti komerčnímu sektoru nemá nad sebou veřejná správa ""bič"" v podobě tržní konkurence. Nic ji tudíž nenutí snažit se lidem nabízet lepší a kvalitnější služby, na kterých je nutné neustále pracovat. Řadový občan si může stěžovat, může nadávat apod., ale praktický nemá moc velké šance, jak reálně zkostnatělost zaběhnutých procesů ovlivnit.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Vezměme si běžnou agendu v podobě výměny řidičského či občanského průkazu. Pro úspěšnou žádost o vyřízení těchto dokladů je nutno alespoň dvakrát navštívit příslušný úřad s rozšířenou působností. Málokdy se tyto návštěvy obejdou bez výraznější časové prodlevy. Přitom jde o vcelku snadné administrativní úkony (alespoň ze strany žadatelů). Nešlo by to lépe a jednodušeji? Při rostoucím počtu zaměstnanců a studentů, kteří cestují za svou prací či studiem se přímo nabízí jim dát šanci tuto agendu vyřídit elektronicky.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Ve srovnání s Velkou Británií to česká státní správa prohrává na celé čáře. Na portálu gov.uk po zadání výrazu pro řidičský průkaz stačí jen <a href=""https://www.gov.uk/search?q=driving+licence"" class=""link"" target=""_blank"">dvě další kliknutí</a> pro dosažení požadovaného formuláře. To je suma sumárum minuta, nejvýše dvě. Samozřejmě, že následné vyplnění formuláře zabere o trochu více času. Ale není třeba kvůli němu nikam cestovat.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+		Digitalizace státní správy samozřejmě není ""samospásná"". Některé problémy bohužel asi stále bude nutné řešit v osobní rovině. Bylo by ale výhodné jak pro stát, tak pro jeho občany, kdyby se podařilo regulovat úkony, které je nutné řešit osobně, na nezbytné minimum. Digitální nástroje jsou konstruovány pro rutinní práce. Ušetřený čas opakující se agendy by mohli úředníci využívat třeba pro navrhování způsobů, jak občanům navrhovat lepší a intuitivněji podané služby.
+	</p>
+</div>","Až do přelomu minulého a současného tisíciletí by o existenci digitalizované podoby státního hospodaření málokdo uvažoval. Doba se ale změnila a je na čase přemýšlet nad webem jako místem, kde je možné snadno a dostupně nabízet kvalitní a intuitivní digitální služeb. I ve státní správě.","full_html"
+"node","blog","0","12","12","und","0","<div class=""perex"">
+	Modení stát v 21. století by si zasloužil kvalitně fungující e-government portály. Cesta k jejich dosažení není tak spletitá, jak by se na první pohled mohlo zdát. Naše vize je propojit odborníky z komerčního prostředí s odpovědnými lidmi ve státní správě a těmto ukázat, že dosáhnout dobře použitelných portálů není tak obtížné, jak by se na první pohled mohlo zdát.
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Čím dál důležitějším sektorem národního hospodářství vyspělých ekonomik tvoří poslední dobou služby. V porovnání s primárním a sekundárním sektorem hospodářství, tedy zemědělstvím a průmyslovou výrobou, klade právě tento výsek ekonomiky nejvyšší důraz na kvalitu mezilidských vztahů. Vzpomeňte na poslední nepříjemnou návštěvu obchodu, kavárny či restaurace. Jistě to není zkušenost, kterou lze považovat za příjemnou.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Komerční sektor má ovšem tu výhodu, že do jej do jisté míry regulují tržní principy. Zákazníci mají přirozenou tendenci vybírat si místa, kde se jim dostává lepšího zacházení a přístupu. Pokud k tomu nemají nějaký nestandardní důvod, běžně konzumují služby, které jsou pro ně srozumitelné a příjemné.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Zákazník státních služeb bohužel na výběr nemá. Nelze si vybrat lepší krajský úřad či správu sociálního zabezpečení. Tato nemožnost volby s sebou přirozeně přináší jistou zkostnatělost při evoluci a inovaci služeb, které státní sektor provozuje. Jistou roli v tomto může hrát i byrokracie se státní správou spojená.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Dobrým (respektive spíše špatným) ilustrativním příkladem jsou webové portály národních úřadů, které naprosto nereflektují potřeby uživatelů webu, které se za poslední desetiletí radikálně změnily. Nehledě na stále rostoucí segment uživatelů webu skrze různá přenosná zařízení.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Drtivé většině státních portálů chybí alespoň náznak přizpůsobení se těmto trendům. Bohužel ve chvíli, kdy si člověk chce zjistit nějakou informaci pomocí mobilního telefonu na nepřizpůsobeném portálu, stráví svým úsilím nesrovnatelně větší množství času oproti správně upravené stránce. Pokud mu nedojde trpělivost.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Přitom řešení není zdaleka tak komplikované, jak by se mohlo zdát. Národní instituce mají k dispozici vysoké množství opravdu kvalitních informací. Jediné, co jejich ideálnímu využití brání, je pouze správná forma a způsob, jak je dostat ke koncovému uživateli. Bylo by zajímavé zjistit, kolik institucí před zadáváním tvorby nějakého veřejného portálu konzultovalo požadavky, které na ně kladou jejich cíloví uživatelé. Tito jsou přeci ti zásadní, kolem jejichž podnětů se mají informační systémy budovat.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Shazovat současnou situaci je snadné. Pouze u toho ovšem zůstat nechceme. Rádi bychom pomocí našeho projektu ukázali vybraným zástupcům státní správy, že řešení nejsou zase tak náročná na provedení a při jejich zavedení mohou mít uživatelé nesrovnatelně lepší výsledky při používání zmiňovaných portálů. Což vyústí ve spokojené klienty úřadů a méně práce pro samotné úředníky. Řeklo by se - výhodná situace pro obě strany.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Rádi bychom propojili zástupce z komunit, které se právě uživatelskou přívětivostí zabývají ve své profesní činnosti se zástupci státní sféry, kteří mají zodpovědnost za zadávání dokumentace při tvorbě státních portálů. Nedílnou součástí procesu je také validace toho, jestli zhotovitel systému splnil zadání. Rádi bychom zástupcům státu pomocí propojení s odborníky z komerční sféry ukázali, že není zase tak komplikované vytvořit kvalitně provedenou zadávací dokumentaci společně s výstupními kritérii, která pomohou zajistit vysokou míru použitelnosti výsledných portálů.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+	Právě použitelnost výsledku pro cílové uživatele by měla být hlavním faktorem při hodnocení kvality výsledku. Myslíme si, že toto je v české veřejné správě trvale přehlíženo (čest výjimkám) a rádi bychom se pomocí našeho projektu zasadili o změnu vnímání této problematiky. Ve výsledku by to mohlo pomoci všem, kteří by měli zájem využívat služeb českého e-governmentu. Moderní země 21. století by si to jistě zasloužila.
+	</p>
+</div>","Modení stát v 21. století by si zasloužil kvalitně fungující e-government portály. Cesta k jejich dosažení není tak spletitá, jak by se na první pohled mohlo zdát. Naše vize je propojit odborníky z komerčního prostředí s odpovědnými lidmi ve státní správě a těmto ukázat, že dosáhnout dobře použitelných portálů není tak obtížné, jak by se na první pohled mohlo zdát.","full_html"
+"node","blog","0","13","13","und","0","<div class=""perex"">
+<p>
+	Naším cílem je otevřít debatu na téma <em>použitelnosti</em> webů provozovaných státem. Jsme přesvědčeni o tom, že stav veřejných informačních systémů v ČR neodpovídá současným standardům a trendům, které lze pozorovat v zahraničí.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+
+Přijďte na <strong><a href=""https://www.facebook.com/events/1571685546445336/"" class=""link"" target=""_blank"">naši akci</a></strong> a zapojte se do diskuze o tom, jaké nedostatky mají testované weby, a co brání jejich uživatelské přívětivosti.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	První akce se uskuteční <strong>21. dubna od 18 hodin v prostorách společnosti Webnode.</strong>
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	Na programu je procházení dvou vybraných webů pomocí jednoduchých scénářů, které simulují typické potřeby občanů. Role moderátora se ujme odborník na user experience, zakladatel <a href=""http://www.uxakademie.eu/"" class=""link"" target=""_blank"">UX Akademie</a> – <a href=""http://berkaux.com/"" class=""link"" target=""_blank""> Berka</a>
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	Závěry z testování i následné diskuse budeme prezentovat online, ale také je předložíme vybraným zástupcům z řad veřejné správy.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	V návaznosti na první akci (testování) proběhne druhá událost zaměřená na diskusi nad obecnějšími problémy českého e-governmentu a jejich možným řešením. Pobavíme se o tom, co by prospělo digitálním službám státu.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+	Těšíme se na Vaši účast a názory.
+	</p>
+</div>","Naším cílem je otevřít debatu na téma použitelnosti webů provozovaných státem. Jsme přesvědčeni o tom, že současný stav veřejných informačních systémů v ČR neodpovídá současným standardům a trendům, které lze pozorovat v zahraničí. ","full_html"
+"node","blog","0","14","14","und","0","<div class=""perex"">
+V úterý 21. dubna jsme uspořádali první veřejné uživatelské testování pro přibližně 30 zájemců. S akcí nám pomohli dva dobrovolníci – testeři, které jsme oslovili ještě před akcí. Moderování se chopil zakladatel UX Akademie, Berka Berkaux.
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/testovani.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+Prvním testovaným webem byl portál <a href=""http://www.financnisprava.cz/"" target=""_blank"" class=""link"">Finanční správy.</a> Testování bylo koncipováno jako série šesti nezávislých úkolů, které jsme vytvořili zejména podle zaměření samotného webu. Pro ilustraci – jeden z úkolů pro portál Finanční správy zněl: “Rozhodujete se, jestli budete spolupracovat s firmou, která má IČO 26185610. Zjistěte, jak se firma jmenuje a jaký má základní kapitál.” Jedná se o situaci, se kterou se může uživatel tohoto portálu reálně setkat. Ostatní úkoly se nesly v podobném duchu.
+	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Druhý portál jsme během přestávky změnili. Původně jsme měli v plánu otestovat <a href=""http://portal.gov.cz/portal/obcan/"" target=""_blank"" class=""link"">Portál veřejné správy.</a> Využili jsme však přítomnosti starosty Nového Města na Moravě, Michala Šmardy, který byl ochotný nechat přede všemi otestovat připravenost webu <a href=""https://www.nmnm.cz/"" class=""link"" target=""_blank"">Nové Město na Moravě</a> na řešení úkolů, na kterých se s Berkou o pauze dohodli. Ani jednou  se však testerovi (který na  podnět publika mohl využit i vyhledáváni v Google – nezačínal tudíž přímo na testovaném webu, jak tomu bylo v prvním případě) nepodařilo úspěšně dopracovat ke zdárnému cíli.
+	</p>
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/agilni_diskuze.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+<strong>Michal Šmarda</strong>, starosta Nového Města na Moravě:
+	</p>
+<blockquote>
+“Akcička pěkná. Inspirovalo mne to, abychom se trošku zamysleli nad celkovým přístupem ke struktuře informací na webu a nad způsobem zveřejňování. Chtělo by to nějak zapojit více měst a pokusit se o srovnání a výměnu zkušeností… A mrkvové jednohubky byly super. :)”
+</blockquote>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+V příštím týdnu přineseme podrobnější rozbor výsledků celého testování. Vášnivá debata, kterou testování pomohlo podnítit, byla přesně to, co jsme si od testování slibovali. Jsme velice rádi, že se nám podařilo rozpoutat diskuzi nad tím, jak dílčí portály fungují během interakce s koncovým uživatelem. Budeme se snažit co nejrychleji zpracovat zpětnou vazbu, kterou sbíráme od účastníků testování.
+	</p>
+</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani/crowd.JPG"" alt=""Otevřené testování"" class=""blog-pic""/>
+<div class=""blog-paragraph"">
+	<p>
+Testování poukázalo na to, že weby veřejné správy ne vždy fungují tak, jak bychom si přáli. Není na místě v tuto chvíli vinit konkrétní osobu či instituci. Chceme hlouběji prozkoumat příčiny, proč tomu tak je. Věříme, že i státní portály lze udělat kvalitně a s patřičným důrazem na koncové uživatele. Příští týden zde můžete očekávat podrobnější výstupy ze samotného testování.
+	</p>
+</div>","21. dubna jsme uspořádali otevřené veřejné testování webů veřejné správy. Jaké weby jsme vybrali a jak to celé dopadlo?","full_html"
+"node","blog","0","15","15","und","0","<div class=""perex"">
+Před dvěma týdny jsme  <a href=""http://www.pristupnejsistat.cz/jak-jsme-testovali-weby-verejne-spravy"" target=""_blank"" class=""link""> veřejně otestovali dva weby</a> – konkrétně portál<a href=""http://www.financnisprava.cz/"" class=""link"" target=""_blank"">Finanční správy</a> a na přání starosty Michala Šmardy i web obce<a href=""https://www.nmnm.cz/"" class=""link"" target=""_blank"">Nové město na Moravě.</a>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+Ukázalo, že dobrovolníci, kteří se weby odhodlali otestovat, mají opravdu problém se na stránkách orientovat. Uznáváme, že podmínky, ve kterých web používali, nebyly přirozené – vše se odehrávalo před zraky cca 30 diváků a dění na obrazovce se promítalo na velké plátno. Kromě toho se však objevilo množství dalších otázek, podnětů a inspirací, za což vděčíme jak divákům, kteří diskutovali už v průběhu akce, tak těm odvážným, kteří se s námi bavili i po oficiálním ukončení :)
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+Podařilo se nám dostat na jedno místo odborníky, politiky, studenty i vědce. Testovací večer naše aktivity neukončil. Naopak, po události se rozběhl maraton schůzek, porad, emailů, telefonátů a dlouhých facebookových diskusí.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+Je namístě se ptát - ""Co teď?"" Co dělat dále pro to, abychom pomohli stávající situaci zlepšit? Jsme teprve na začátku cesty, která vede k lepším digitálním službám státu. Aktuálně nás čeká několik úvodních testování webů samospráv, jejichž zástupci o naše služby projevili zájem. Tyto nám (a doufáme, že i širší veřejnosti) pomohou objektivněji zhodnotit aktuální podobu alespoň malé části webových portálů státní správy.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+V nejbližší době se budeme zabývat zejména těmito aktivitami:
+</p>
+<ul>
+<li><p>budeme mluvit s odborníky v oblasti použitelnosti webů (Máme už za sebou např. schůzku s Radkem Pavlíčkem.)</p></li>
+<li><p>na podnět radních otestujeme web <a href=""http://www.stred.brno.cz/"" class=""link"" target=""_blank"">Brna-střed</a> a naše výstupy budeme konzultovat se zástupci městské části, kteří mají správu webu na starosti</p>
+</li>
+<li>
+<p>
+potkáme se se slovenskými bratry z iniciativy  <a href=""http://www.tosaneda.sk/"" class=""link"" target=""_blank"">""To sa nedá""</a> (z webu: “Zameriavame sa na použiteľnosť štátnych webov. Meníme aj agresívne a nezrozumiteľné verejné oznamy okolo nás.”)
+</p>
+</li>
+<li>
+<p>
+když všechno půjde, jak má, kontaktujeme další starosty a vysvětlíme jim, jak dobré je testovat, a jak to může pomoct jejich webu, potažmo městu/obci
+</p>
+</li>
+</ul>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+A budeme naslouchat, diskutovat a testovat.
+</p>
+</div>","Povedlo se nám dostat na jedno místo odborníky, politiky, studenty i vědce. Testovací večer naše aktivity neukončil, naopak, po události se rozběhl maraton schůzek, porad, emailů, telefonátů a dlouhých facebookových diskusí.","full_html"
+"node","blog","0","16","16","und","0","<div class=""perex"">
+Když jsme s projektem počátkem roku začínali, měli jsme rámcovou představu o tom, čeho chceme dosáhnout. Věděli jsme, že bychom rádi pomohli prezentaci české veřejné správy tak, aby to odpovídalo trendům 21. století. Neměli jsme ale zcela jasno v tom, jakým způsobem toho dosáhnout, jaké mohou být příčiny současné situace, ani kdo jsou odpovědní lidé, kteří mohou změně současného stavu pomoci.</div>
+
+<div class=""blog-paragraph"">
+	<p>
+V posledních týdnech jsme se potkávali s lidmi, kteří o problematice mají mnohem větší povědomí než my. Tyto schůzky pro nás byly zásadní, pro získání informací, které potřebujeme, abychom dokázali problematice fungování veřejné správy plně porozumět.
+	</p>
+</div>
+
+<h2>Proč zrovna testování?</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Jedním z naších prvotních úkolů bylo přesvědčit odpovědné lidi o tom, že aktuální situace je tristní a její vylepšení by bylo prospěšné v několika rovinách. Nejvhodnějším nástrojem, jak poukázat na dílčí nedostatky, je uživatelské testování.	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Jsme si vědomi jeho limitů a také toho, že testování samotné žádnou změnu k lepšímu nepřináší. Slouží nám ""pouze"" jako nástroj, s jehož pomocí si validujeme náš předpoklad (tj. že některé weby veřejné správy nejsou úplně uživatelsky přívětivé pro uživatele). Výhodou této metody je, že umožňuje přicházet s výsledky v poměrně krátkém čase. Tyto je následně třeba zobecnit a poté jsme schopni označit problémová místa, které uživatelé během své interakce s weby nacházejí.	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Během testování se snažíme o maximální srozumitelnost. Jak ve vztahu s dobrovolníky, kteří vykonávají testovací scénáře, tak i ve vztahu s našimi zadavateli (tj. například obecní úřad). Snažíme se vše podrobně vysvětlovat, abychom předcházeli nejasnostem a spekulacím, které by mohly výsledky naší práce negativně ovlivnit.	</p>
+</div>
+
+<figure>
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani.jpg"" alt=""Otevřené testování"" class=""blog-pic""/>
+<figcaption>Průběh jednoho z provedených testování, které probíhalo ve velice příjemné atmosféře</figcaption>
+</figure>
+<h2>Na čem aktuálně pracujeme</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+V současnosti jsme ve fázi finalizace prvního kola testování redesignovaného webu pro městskou část Brno-střed. Se zástupci této části jsme se domluvili, že otestujeme redesignovanou podobu městského webu. Byť tato nová podoba ještě není zveřejněná, městská část by ráda zjistila, jestli je pro uživatele dostatečně přívětivá. Vedení si takto s naší pomocí chce ověřit, že nová verze bude pro občany dobře použitelná. Oceňujeme jejich chuť se těmito věcmi zabývat. Věříme, že takových případů bude v budoucnu přibývat (nejen na Brně-střed).	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Byť se může na první pohled jevit testování městského webu jako nudná činnost, opak je pravdou. Při vyřizování poměrně běžné agendy jsme pozorovali v průběhu testování opakující se problémy, které uživatelům stěžovaly dosahování svých cílů. Kompletní výsledky tohoto testování budou shrnuty v nějakém z následujících článků.	</p>
+</div>
+
+<h2>K čemu to všechno bude?</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Vzhledem k rychlému tempu na poli informačních technologií je digitální prezentace čím dál důležitější. Veřejná správa v tomto není výjimkou. Pokud je vyřešena kvalitně, dokáže uživatelům usnadnit rutinní úkoly a snížit zatížení pracovníkům ve veřejném sektoru. Je to tedy výhodná situace pro obě strany.	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Myslíme si, že je třeba uživatelům veřejného sektoru přinášet maximálně kvalitní služby. Ať už ve světě digitálním či fyzickém. Dává nám smysl zlepšování přístupnosti služeb státu (v rámci našeho projektu se aktuálně zabýváme zejména tou digitální částí). Byli bychom rádi, kdyby naše snažení umožnilo tyto věci zlepšit.	</p>
+</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Pokud máte pocit, že na to jdeme špatně, něco nám nedochází, nebo máte nějaký nápad či připomínku, budeme rádi, když se <a href=""http://www.pristupnejsistat.cz/contact"" class=""link"">nám ozvete</a>. Maximálně oceňujeme zpětnou vazbu, ať už negativní, či pozitivní.</p>
+</div>
+","Když jsme s projektem počátkem roku začínali, měli jsme rámcovou představu o tom, čeho chceme dosáhnout. Věděli jsme, že bychom rádi pomohli prezentaci české veřejné správy tak, aby to odpovídalo trendům 21. století. Neměli jsme ale zcela jasno v tom, jakým způsobem toho dosáhnout, jaké mohou být příčiny současné situace, ani kdo jsou odpovědní lidé, kteří mohou změně současného stavu pomoci.","full_html"
+"node","blog","0","17","17","und","0","Have you ever experienced trying to find specific information on some website and this task was JUST IMPOSSIBLE?
+
+There's a website, that contains full overview about Czech republic, its history, culture, business opportunities and other usable things. We, namely people behind the project Přístupnější stát, still think, that this website is not fully usable. It's not as straightforward to find some information there as it could be and its usage is not that easy.
+
+We're planning to conduct several usability tests, that are supposed to verify whether that website is usable for ordinary people or not. We try to reach better services for people in Czech republic, be it someone from abroad or a native.
+
+It would be a pleasure to invite you if you have a spare hour for our project and you are willing to spend it in one of the Brno's cafés of your choice. In case your'e interested, let us know on email info@pristupnejsistat.cz or write a private message.
+
+It would be really cool to meet up so that we can help to increase the quality of services, that are now available for all users of mentioned website :)
+
+Our project is supported by UX Akademie (http://uxakademie.cz) which is one of the market's leading company for providing education in digital economy.
+
+We're really looking forward to meeting people, that are positive about opportunities, that are possible thanks to digital technologies!
+
+Take care,
+Tom, Lucia, Michal and Erik (team Přístupnější stát)","We are looking for volunteers to help us improve the website about Czech republic.","filtered_html"
+"node","blog","0","18","18","und","0","<div class=""perex"">Zástupci městské části Brno-střed připravili ve spolupráci s externím dodavatelem nový web pro své občany. Tento informační portál zatím nebyl nasazen na doménu <a href=""http://www.brno-stred.cz/"" target=""_blank"">www.brno-stred.cz</a>. Než se tak stane, chce si radní <strong>Svatopluk Bartík</strong> (<a href=""http://www.zitbrno.cz/"" target=""_blank"">Žít Brno</a>) a jeho kolegové ověřit, že redesignovaný web je schopný nahradit ten stávající a působí také lepším dojmem na uživatele. Zástupci Brna-střed nás oslovili, jestli bychom jim nepomohli zjistit, jak je na tom nový web s použitelností. My jsme rádi souhlasili a v tomto textu se vám pokusíme přiblížit, co vše jsme udělali pro výslednou analýzu použitelnosti.</div>
+
+<img src=""/sites/all/themes/bootstrap_clean_blog/assets/img/testovani.jpg"" alt=""Otevřené testování"" class=""blog-pic""/>
+
+<div class=""blog-paragraph"">
+<p>
+Pokud chcete mít dobrý web a stojíte před jeho navrhováním, doporučujeme zaměřit se na potřeby budoucích uživatelů a vzít při tom v potaz také jejich zkušenosti s používáním internetu. Jestliže už máte web a chcete pouze zjistit, jestli je kvalitní, máte několik možností. A právě námi využívané <strong>uživatelské testování</strong> je jednou z dostupných metod. Zabýváme se uživatelským testováním především proto, že tím získáváme přímou zpětnou vazbu od těch nejdůležitějších – na které se paradoxně při (re)designu mnohdy zapomíná – od uživatelů. Princip je jednoduchý: dáte dohromady sadu úkolů, s jejichž pomocí otestujete web nemilosrdně vystavený vybraným uživatelům.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>Důležitým předpokladem pro kvalitní testování (a hodnotné výsledky) je správná formulace úkolů a dobrý výběr testujících uživatelů. My jsme se snažili čerpat z dostupných zkušeností lidí, kteří řeší problémy a dotazy občanů na denní bázi. Na formulaci úkolů jsme proto spolupracovali s Danielem Zemanem, komunikačním a projektovým pracovníkem Brna-střed.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+<strong>Zde uvádíme testovací scénáře, které jsme při testování webu Brna-střed použili:</strong>
+</p>
+<ul>
+<li><p>Přestěhoval(a) jste se za prací do Brna. Máte v plánu změnit si trvalé bydliště na adresu Vámi pronajatého bytu. Zjistěte, jak lze adresu změnit.</p></li>
+<li><p>Máte zájem o pronájem obecního bytu. Zjistěte, jaké informace je nutné během žádosti poskytnout úřadu a s kým ve věci komunikovat.</p></li>
+<li><p>Ke změně adresy se váže povinnost platit pravidelné poplatky za komunální odpad. Pokuste se zjistit jejich aktuální výši, datum, do kdy je třeba je pro letošní rok zaplatit a způsob, jakým lze platbu provést.</p></li>
+<li><p>Do nového bytu si chcete pořídit pejska. Pokuste se zjistit, jaké povinnosti se vážou k vlastnictví zvířete.</p></li>
+<li><p>Od nového školního roku má Vaše dítě nastoupit do mateřské školy. Zjistěte, které mateřské školy spadají k Vaší adrese. Nějakou z nich vyberte a zjistěte, co vše je třeba před úspěšným zápisem vykonat, aby zápis proběhl hladce.
+</p></li>
+</ul>
+</div>
+
+<div class=""blog-paragraph"">
+<p>
+Pomocí úkolů jsme se snažili vyvolat modelové situace, kdy uživatel webu potřebuje něco zjistit nebo zařídit.  Postupně jsme zadávali výše zmíněné úkoly vybraným uživatelům webu, nezaujatě je pozorovali při jejich plnění a důkladně zaznamenávali, co a jak dělají. Průchod webem měl vždy jasně definovaný cíl. Věděli jsme, kam uživatelé míří, a s přispěním jejich živých komentářů jsme měli i částečný přehled o motivaci – proč dělají to, co právě dělají.
+</p>
+</div>
+
+<h2>Jak jsme vybírali uživatele – testery</h2>
+<div class=""blog-paragraph"">
+<p>
+Než jsme začali s oslovováním dobrovolníků, kteří by nám pomohli otestovat web Brna-střed, stanovili jsme si kritéria pro jejich profil. Obecně se dá říci, že testeři musí spadat do skupiny potenciálních uživatelů webu a ideálně bez zkušenosti s jeho používáním. V našem případě jsme pracovali se skupinou lidí žijících v Brně. Abychom získali více podnětů, snažili jsme se při výběru zohledňovat také věkovou a profesní různorodost, díky čemuž v konečném „vzorku“ pěti potenciálních uživatelů byli zahrnuti lidé od 26 let do 47 let, ženy i muži, technického i humanitního zaměření. Může se vám zdát, že počet pět testujících je malý, ale podle zkušených odborníků publikujících na webu <a href=""http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/"" target=""_blank"">NN Group</a> se jedná o dostatečné množství pro zjištění většiny zásadních nedostatků. Mezi naše dobrovolníky patřil technolog, šéfredaktorka časopisu, IT specialista, zdravotní sestra a koordinátorka klinických studií. Vskutku pestrá skupina.
+</p>
+</div>
+
+<h2>Kde všude jsme testovali, a jak to vypadalo</h2>
+<div class=""blog-paragraph"">
+<p>
+Naší taktikou bylo vyjít maximálně vstříc uživatelům, kteří nám pomáhali s testováním. Ptali jsme se jich, jaké místo je pro ně nejlepší a snažili jsme se tomu přizpůsobit. Testovali jsme v kavárnách a nebyla výjimkou ani návštěva doma na zahradě. Velká část uživatelů dnes využívá k přístupu na internet notebook, jsou díky tomu mobilní a schopní vyhledávat informace téměř kdekoli.
+</p>
+</div>
+
+<blockquote>Není třeba se bát, testujeme webové stránky, ne vás. Toto je jediný test, ve kterém nemůžete udělat chybu.</blockquote>
+
+<div class=""blog-paragraph"">
+<p>
+Postup testování byl vždy stejný. Jeden z nás domluvil s uživatelem čas a místo setkání a ve dvoučlenném týmu jsme v daný den a hodinu vyrazlili. Z dostupných metodik víme, jak je důležité být v početní převaze: jeden z nás měl vždy roli komunikátora, druhý roli zapisovatele. A fungovalo to skvěle! Začali jsme stručným představením webu a metody uživatelského testování. Často měli dobrovolníci obavy z toho, že něco udělají špatně a pokazí tak testování. My jsme je ubezpečovali, že jediná chyba, jakou můžou udělat, je v tomto případě malá sdílnost. Opravdu, uživatelské testování je postavené na přirozeném průchodu webem a pozorování. Důležité je, aby tester vyjadřoval názor na to, co vidí, a proto jsme vždy říkali “myslete nahlas, nebojte se říct své dojmy a záměry”.
+</p>
+</div>
+
+<h2>Na co jsme přišli při testování</h2>
+<div class=""blog-paragraph"">
+<p>
+Při průchodu webem čekalo naše dobrovolníky mnoho překvapení a někdy dokonce nástrah. Jak je patrné ze seznamu úkolů výše, testovali jsme vyhledatelnost informací u základních životních situací, které mohou potkat (a pravděpodobně potkají) každého z nás. Jak si změnit trvalé bydliště, formality nutné k vyřízení při pronájmu obecního bytu, poplatky za komunální odpad, povinnosti vyplývající k vlastnictví zvířete a spádová oblast mateřských škol – to všechno jsou informace, které patří na webové stránky městské části a občané je zde hledají.
+</p>
+</div>
+
+<div class=""blog-paragraph"">
+<p>Při sledování uživatelů, kteří plní zadané úkoly, jsme přišli na to, že po odchodu z homepage na jakoukoli stránku se nemají jak vrátit zpět. Návrat na domovskou stránku by měl být samozřejmostí už proto, že poskytuje výchozí bod pro jakékoli hledání. Zjistili jsme problém s pojmenováním sekce nazvané Středobody. Jde o slovní hříčku, ale bohužel na úkor srozumitelnosti. Dále jsme identifikovali několik prvků, které podle reakcí uživatelů působili interaktivním dojmem, ale pouze jejich část fungovala jako tlačítko. Uživatelé měli také problém s prezentací většiny potřebných informací v PDF dokumentu, který je nutné stáhnout. Sami jsme zhodnotili toto řešení jako nepříliš šťastné vzhledem k tomu, že klade zbytečnou překážku mezi hledající a hledané.
+</p>
+</div>
+
+<img src=""http://i.imgur.com/glJXxJi.jpg"" alt=""homepage"" class=""blog-pic""/>
+<small><small><small>Vstupní stránka má fungovat jako rozcestník, z něhož uživatel co možná nejrychleji odejde na stránku s obsahem, který hledá. Uživatelům se tato homepage líbila a zdála se jim i  přehledná, ale bohužel celkový dojem zhoršuje špatná čitelnost spodních odkazů (malý kontrast pozadí) a nejasný název sekce Středobody.
+</small></small></small>
+<hr>
+
+<img src=""http://i.imgur.com/n4azelG.jpg"" alt=""dlaždice"" class=""blog-pic""/>
+<small><small><small>Na webu Brna-střed uplatnili designéři zavedený koncept životních situací, tzn. standard pro strukturu informací, které občané hledají. Z naší zkušenosti víme, že nejde o řešení vedoucí k nejrychlejšímu nalezení požadované informace. Situaci navíc ztěžoval fakt, že jednotlivé životní situace se po prokliku zobrazují pod viditelnou částí stránky a nic nenasvědčuje změně obsahu na stránce. Uživatelé byli zmatení, protože si mysleli, že odkazy v mřížce nefungují.</small></small></small>
+<hr>
+
+<img src=""http://i.imgur.com/uZDFD4i.png"" alt=""PDF"" class=""blog-pic""/>
+<small><small><small>Důležité informace prezentované pouze v PDF formátu.</small></small></small>
+
+<hr>
+
+<div class=""blog-paragraph"">
+<p>
+Naši dobrovolníci byli chytří a vzdělaní lidé, kteří jsou zvyklí používat počítač denně, a přesto na novém webu Brna-střed naráželi na komplikace. Nemůžeme tvrdit, že jde o jejich neschopnost. Lidé se nemají přizpůsobovat technice, ale technika se má řídit potřebami lidí. Designér by měl znát alespoň rámcově uživatele toho, co navrhuje. Alespoň to tvrdí specialisté na human centred a UX design, a toto stanovisko zastáváme i my, lidé z projektu Přístupnější stát.
+</p>
+</div>
+
+<div class=""landing-page-part"">
+	<div class=""call-to-action"">
+		<p>
+<strong>Víte o webu, kterému by testování také prospělo? <a href=""http://www.pristupnejsistat.cz/contact"" alt=""Kontaktní formulář"" class=""link"">Dejte nám  tip, anebo se k nám rovnou připojte!</a> </strong>
+</p>
+	</div>
+</div>
+</div>
+","Zástupci městské části Brno-střed připravili ve spolupráci s externím dodavatelem nový web pro své občany. Tento informační portál zatím nebyl nasazen na doménu brno-stred.cz. Než se tak stane, chce si radní Svatopluk Bartík (Žít Brno) a jeho kolegové ověřit, že redesignovaný web je schopný nahradit ten stávající a působí také lepším dojmem na uživatele. Zástupci Brna-střed nás oslovili, jestli bychom jim nepomohli zjistit, jak je na tom nový web s použitelností. My jsme rádi souhlasili a v tomto textu se vám pokusíme přiblížit, co vše jsme udělali pro výslednou analýzu použitelnosti.","full_html"
+"node","blog","0","19","19","und","0","<div class=""perex"">
+Jelikož je pro nás uživatelské testování v tuto chvíli základní metodou, kterou při své práci používáme, myslíme si, že je zásadní tuto metodu trochu osvětlit. Přeložili jsme tedy článek z portálu usability.gov, který se uživatelským testováním zabývá.</div>
+
+<div class=""blog-paragraph"">
+	<p>
+Uživatelské testování dává možnost vývojovým týmům předvídat problémy před tím, než se objeví. Čím dříve jsou problémy identifikovány a vyřešeny, tím méně závažné budou změny jednak co se týče času na jejich opravě strávené, tak co se týče dopadu na projekt. V průběhu uživatelského testování budete dělat tyto věci:	</p>
+</div>
+
+<ul>
+<li>pozorovat, jestli dokáží uživatelé splnit konkrétní úkoly úspěšně,</li>
+<li>identifikovat, jak dlouho jim trvá řešení jejich úkolů,</li>
+<li>zjišťovat, jak jsou vaši účastníci spokojeni s vaší webovou stránkou či jiným produktem,</li>
+<li>identifikovat změny nutné ke zvýšení spokojenosti uživatelů,</li>
+<li>analyzovat současný stav aplikace či webu pro zjištění, jestli jste splnili kritéria použitelnosti.</li>
+</ul>
+
+<h2>Nepotřebujete mít profesionální laboratoř</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Pro efektivní uživatelské testování nepotřebujete formální laboratoř. Testování lze úspěšně jedním z následujících způsobů:
+</p>
+</div>
+
+<ul>
+<li>pevná laboratoř se dvěma až třemi spojenými pokoji vybavená s audio-vizuální technikou,</li>
+<li>pokoj s přenosným nahrávacím zařízením,</li>
+<li>pokoj bez nahrávacího zařízení za předpokladu, že je přítomen pozorovatel a zapisovatel testování,</li>
+<li>vzdáleně - když je uživatel fyzicky jinde (ať už moderovaně, či nemoderovaně).</li>
+</ul>
+
+<h2>Faktory ovlivňující cenu testování
+</h2>
+
+<div class=""blog-paragraph"">
+	<p>
+Cena vašeho testování závisí na:
+
+</p>
+</div>
+
+<ul>
+<li>typu provedeného testování,</li>
+<li>velikosti týmu sestaveného pro testování,</li>
+<li>počtu účastníků testování,</li>
+<li>množství času, který věnujete testování.</li>
+</ul>
+
+<div class=""blog-paragraph"">
+	<p>
+Nezapomínejte plánovat pro více než jeden test použitelnosti. Zapracování prvků použitelnosti na webovou stránku (nebo jakýkoli jiný produkt) je postupný proces. Nejdůležitejší prvky ovlivňující plánování uživatelského testování:
+</p>
+</div>
+
+<ul>
+<li><b>Čas:</b> Budete potřebovat čas pro plánování testu použitelnosti. Bude třeba, aby se seznámil odborník na použitelnost se svým týmem a vypracoval testovací scénáře. Mimo samotné plánování nezapomínejte na ostatní části testování jako ověřování faktů, analýza dat či prezentaci zjištěných výsledků.</li>
+<li><b>Cena za nábor:</b> Přemýšlejte nad tím jak a kde budete získávat účastníky testování. Buď budete potřebovat čas vašich náborářů pro získání účastníků nebo bude třeba zajistit služby externích personalistů pro zisk účastníků podle zadaných požadavků</li>
+<li><b>Kompenzace participantům: </b>Pokud máte v plánu účastníkům kompenzovat jejich účast, zohledněte to do svého testovacího rozpočtu</li>
+<li><b>Pronájem: </b>Pokud nemáte vybavení pro sledování nebo nahrávání, budete potřebovat počítat i s rozpočtem pronájmu laboratoře a ostatní vybavení. Možná budete potřebovat zajistit místo pro testování (kupříkladu konferenční místnost), nezapomeňte i podobné faktory zohlednit v plánovací fázi</li>
+<li>Je nutné si neustále připomínat, že uživatelské testování není jen další položka pro odškrtnutí ze seznamu úkolů projektu. Tím by měl mít cíl, kvůli kterému je testování prováděno a následně i díky zjištěným faktům v průběhu testování se nám jej podaří dosáhnout.</li>
+</ul>","Jelikož je pro nás uživatelské testování v tuto chvíli základní metodou, kterou při své práci používáme, myslíme si, že je zásadní tuto metodu trochu osvětlit. Přeložili jsme tedy článek z portálu usability.gov, který se uživatelským testováním zabývá.","full_html"

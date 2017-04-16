@@ -1,15 +1,19 @@
-<div id="contact" class="primary row column">
+<div id="kontakt" class="primary row column">
   <div class="column small-12 medium-6 contact-claim">
     <span>
       Pokud právě zvažujete změnu aktuálního portálu či návrh zcela nové služby občanům, neváhejte se na nás obrátit. Rádi Vám pomůžeme vytvořit kvalitní službu, která efektivně řeší daný problém.
     </span>
+    <div class="direct-contact">
+      <div>
+        <strong>Email:</strong>
+        <span><a href="mailto:info@pristupnejsistat.cz">info@pristupnejsistat.cz</a></span>
+      </div>
+      <div>
+        <strong>Telefon:</strong>
+        <span>+420 608 409 497</span>
+      </div>
+    </div>
+
   </div>
-  <form class="column small-12 medium-6" id="input-form" action="https://www.formingo.co/submit/info@pristupnejsistat.cz" method="post">
-    <input type="email" placeholder="Váš email" required name="email" name="__replyto"/>
-    <textarea required placeholder="Čeho byste rádi dosáhli?" name="content"></textarea>
-    <input type="hidden" name="__subject" value="Nová zpráva pro projekt Přístupnější stát">
-    <!-- <input id="submit-button" onclick="javascript:submitForm();" class="button" value="Odeslat zprávu"/> -->
-    <input type="hidden" name="__redirect" value="http://pristupnejsistat.cz">
-    <input id="submit-button" type="submit" class="button" value="Odeslat zprávu"/>
-  </form>
+  {% include contact-form.html %}
 </div>
