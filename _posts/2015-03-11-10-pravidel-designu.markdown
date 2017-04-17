@@ -2,8 +2,8 @@
 layout: post
 title:  10 pravidel designu
 date:   2015-03-11 20:08:21 +0200
-categories: jekyll update
-author: <a href="https://www.gov.uk">GDS</a> (přeložil Erik Vaněk)
+categories: design gds použitelnost
+author: <a href="https://www.gov.uk">GDS</a>
 ---
 Jako jeden ze svých zdrojů inspirace bereme britský tým [GDS (Government Digital service)][gds] a jejich základních [10 designových principů][design-principles]. Tento tým se od poloviny roku 2011 snaží o zavádění kvalitní digitalizace britské státní správy. Rádi bychom se o něco podobného v rámci našeho projektu pokusili i v rámci naší republiky. Přinášíme vám jejich přeložený soupis společně se stručným popisem jejich benefitů.
 

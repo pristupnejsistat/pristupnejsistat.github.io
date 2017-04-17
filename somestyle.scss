@@ -36,6 +36,15 @@ $primary-color: #15a;
 
 }
 
+.header-link, .header-link:hover, .header-link:visited{
+  color: $white-color;
+  text-decoration: none;
+}
+
+.control{
+  display: none;
+}
+
 .reference{
 
   padding: 0 2rem;
@@ -495,9 +504,6 @@ nav{
 
 #kontakt{
   display: flex;
-  // flex-direction: column;
-  // align-items: center;
-
   border: 1px solid $gray-color;
 
   @media (max-width: 40em){
@@ -569,4 +575,18 @@ nav{
 .blog-preview{
   display: block;
   padding-bottom: 1rem;
+}
+
+.column.blog-next-preview-links{
+  display: flex !important;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+a.next{
+  align-self: flex-end;
+}
+
+a.prev{
+  align-self: flex-start;
 }

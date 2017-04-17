@@ -14,6 +14,13 @@
   .row > h2 {
     padding: 1rem; }
 
+.header-link, .header-link:hover, .header-link:visited {
+  color: #eee;
+  text-decoration: none; }
+
+.control {
+  display: none; }
+
 .reference {
   padding: 0 2rem; }
   @media (max-width: 64em) {
@@ -393,3 +400,14 @@ nav {
 .blog-preview {
   display: block;
   padding-bottom: 1rem; }
+
+.column.blog-next-preview-links {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: space-around; }
+
+a.next {
+  align-self: flex-end; }
+
+a.prev {
+  align-self: flex-start; }
