@@ -8,6 +8,23 @@
 
       {% include read-time.html content=post.content%}
 
-      {{post.date | date_to_long_string }}
+      {% assign m = post.date | date: "%-m" %}
+{{ post.date | date: "%-d" }}. 
+{% case m %}
+  {% when '1' %}Ledna
+  {% when '2' %}Února
+  {% when '3' %}Března
+  {% when '4' %}Dubna
+  {% when '5' %}Května
+  {% when '6' %}Června
+  {% when '7' %}Července
+  {% when '8' %}Srpna
+  {% when '9' %}Září
+  {% when '10' %}Října
+  {% when '11' %}Listopadu
+  {% when '12' %}Prosince
+{% endcase %}
+{{ post.date | date: "%Y" }}
+
     </div>
   </div>
