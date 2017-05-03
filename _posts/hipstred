@@ -1,0 +1,69 @@
+---
+layout: post
+title:  Report z uživatelského testování hipstredu
+date:   2015-04-15 20:08:21 +0200
+categories: brno-střed uživatelské testování report
+author: Tomáš Arnot
+---
+
+Zástupci městské části Brno-střed připravili ve spolupráci s externím dodavatelem nový web pro své občany. Tento informační portál zatím nebyl nasazen na doménu [www.brno-stred.cz][brnos]. Než se tak stane, chce si radní <strong>Svatopluk Bartík</strong> ([Žít Brno][zbrno]) a jeho kolegové ověřit, že redesignovaný web je schopný nahradit ten stávající a působí také lepším dojmem na uživatele. Zástupci Brna-střed nás oslovili, jestli bychom jim nepomohli zjistit, jak je na tom nový web s použitelností. My jsme rádi souhlasili a v tomto textu se vám pokusíme přiblížit, co vše jsme udělali pro výslednou analýzu použitelnosti.
+
+[brnos]: https://www.brno-stred.cz
+[zbrno]: http://www.zitbrno.cz/ 
+[pristupnejsik]: http://www.pristupnejsistat.cz/#kontakt
+
+Pokud chcete mít dobrý web a stojíte před jeho navrhováním, doporučujeme zaměřit se na potřeby budoucích uživatelů a vzít při tom v potaz také jejich zkušenosti s používáním internetu. Jestliže už máte web a chcete pouze zjistit, jestli je kvalitní, máte několik možností. A právě námi využívané <strong>uživatelské testování</strong> je jednou z dostupných metod. Zabýváme se uživatelským testováním především proto, že tím získáváme přímou zpětnou vazbu od těch nejdůležitějších – na které se paradoxně při (re)designu mnohdy zapomíná – od uživatelů. Princip je jednoduchý: dáte dohromady sadu úkolů, s jejichž pomocí otestujete web nemilosrdně vystavený vybraným uživatelům.
+
+
+Důležitým předpokladem pro kvalitní testování (a hodnotné výsledky) je správná formulace úkolů a dobrý výběr testujících uživatelů. My jsme se snažili čerpat z dostupných zkušeností lidí, kteří řeší problémy a dotazy občanů na denní bázi. Na formulaci úkolů jsme proto spolupracovali s Danielem Zemanem, komunikačním a projektovým pracovníkem Brna-střed.
+
+
+<strong>Zde uvádíme testovací scénáře, které jsme při testování webu Brna-střed použili:</strong>
+
+* Přestěhoval(a) jste se za prací do Brna. Máte v plánu změnit si trvalé bydliště na adresu Vámi pronajatého bytu. Zjistěte, jak lze adresu změnit.
+
+* Máte zájem o pronájem obecního bytu. Zjistěte, jaké informace je nutné během žádosti poskytnout úřadu a s kým ve věci komunikovat.<p></p>
+
+* Ke změně adresy se váže povinnost platit pravidelné poplatky za komunální odpad. Pokuste se zjistit jejich aktuální výši, datum, do kdy je třeba je pro letošní rok zaplatit a způsob, jakým lze platbu provést.
+
+* Do nového bytu si chcete pořídit pejska. Pokuste se zjistit, jaké povinnosti se vážou k vlastnictví zvířete.
+
+* Od nového školního roku má Vaše dítě nastoupit do mateřské školy. Zjistěte, které mateřské školy spadají k Vaší adrese. Nějakou z nich vyberte a zjistěte, co vše je třeba před úspěšným zápisem vykonat, aby zápis proběhl hladce.
+
+
+
+Pomocí úkolů jsme se snažili vyvolat modelové situace, kdy uživatel webu potřebuje něco zjistit nebo zařídit.  Postupně jsme zadávali výše zmíněné úkoly vybraným uživatelům webu, nezaujatě je pozorovali při jejich plnění a důkladně zaznamenávali, co a jak dělají. Průchod webem měl vždy jasně definovaný cíl. Věděli jsme, kam uživatelé míří, a s přispěním jejich živých komentářů jsme měli i částečný přehled o motivaci – proč dělají to, co právě dělají.
+
+
+### Jak jsme vybírali uživatele – testery
+
+Než jsme začali s oslovováním dobrovolníků, kteří by nám pomohli otestovat web Brna-střed, stanovili jsme si kritéria pro jejich profil. Obecně se dá říci, že testeři musí spadat do skupiny potenciálních uživatelů webu a ideálně bez zkušenosti s jeho používáním. V našem případě jsme pracovali se skupinou lidí žijících v Brně. Abychom získali více podnětů, snažili jsme se při výběru zohledňovat také věkovou a profesní různorodost, díky čemuž v konečném „vzorku“ pěti potenciálních uživatelů byli zahrnuti lidé od 26 let do 47 let, ženy i muži, technického i humanitního zaměření. Může se vám zdát, že počet pět testujících je malý, ale podle zkušených odborníků publikujících na webu <a href="">NN Group</a> se jedná o dostatečné množství pro zjištění většiny zásadních nedostatků. Mezi naše dobrovolníky patřil technolog, šéfredaktorka časopisu, IT specialista, zdravotní sestra a koordinátorka klinických studií. Vskutku pestrá skupina.
+
+
+### Kde všude jsme testovali, a jak to vypadalo
+
+Naší taktikou bylo vyjít maximálně vstříc uživatelům, kteří nám pomáhali s testováním. Ptali jsme se jich, jaké místo je pro ně nejlepší a snažili jsme se tomu přizpůsobit. Testovali jsme v kavárnách a nebyla výjimkou ani návštěva doma na zahradě. Velká část uživatelů dnes využívá k přístupu na internet notebook, jsou díky tomu mobilní a schopní vyhledávat informace téměř kdekoli.
+
+
+<blockquote>Není třeba se bát, testujeme webové stránky, ne vás. Toto je jediný test, ve kterém nemůžete udělat chybu.</blockquote>
+
+
+Postup testování byl vždy stejný. Jeden z nás domluvil s uživatelem čas a místo setkání a ve dvoučlenném týmu jsme v daný den a hodinu vyrazlili. Z dostupných metodik víme, jak je důležité být v početní převaze: jeden z nás měl vždy roli komunikátora, druhý roli zapisovatele. A fungovalo to skvěle! Začali jsme stručným představením webu a metody uživatelského testování. Často měli dobrovolníci obavy z toho, že něco udělají špatně a pokazí tak testování. My jsme je ubezpečovali, že jediná chyba, jakou můžou udělat, je v tomto případě malá sdílnost. Opravdu, uživatelské testování je postavené na přirozeném průchodu webem a pozorování. Důležité je, aby tester vyjadřoval názor na to, co vidí, a proto jsme vždy říkali “myslete nahlas, nebojte se říct své dojmy a záměry”.
+
+
+### Na co jsme přišli při testování
+
+Při průchodu webem čekalo naše dobrovolníky mnoho překvapení a někdy dokonce nástrah. Jak je patrné ze seznamu úkolů výše, testovali jsme vyhledatelnost informací u základních životních situací, které mohou potkat (a pravděpodobně potkají) každého z nás. Jak si změnit trvalé bydliště, formality nutné k vyřízení při pronájmu obecního bytu, poplatky za komunální odpad, povinnosti vyplývající k vlastnictví zvířete a spádová oblast mateřských škol – to všechno jsou informace, které patří na webové stránky městské části a občané je zde hledají.
+
+* Při sledování uživatelů, kteří plní zadané úkoly, jsme přišli na to, že po odchodu z homepage na jakoukoli stránku se nemají jak vrátit zpět. Návrat na domovskou stránku by měl být samozřejmostí už proto, že poskytuje výchozí bod pro jakékoli hledání. Zjistili jsme problém s pojmenováním sekce nazvané Středobody. Jde o slovní hříčku, ale bohužel na úkor srozumitelnosti. Dále jsme identifikovali několik prvků, které podle reakcí uživatelů působili interaktivním dojmem, ale pouze jejich část fungovala jako tlačítko. Uživatelé měli také problém s prezentací většiny potřebných informací v PDF dokumentu, který je nutné stáhnout. Sami jsme zhodnotili toto řešení jako nepříliš šťastné vzhledem k tomu, že klade zbytečnou překážku mezi hledající a hledané.
+
+* Vstupní stránka má fungovat jako rozcestník, z něhož uživatel co možná nejrychleji odejde na stránku s obsahem, který hledá. Uživatelům se tato homepage líbila a zdála se jim i  přehledná, ale bohužel celkový dojem zhoršuje špatná čitelnost spodních odkazů (malý kontrast pozadí) a nejasný název sekce Středobody.
+
+
+* Na webu Brna-střed uplatnili designéři zavedený koncept životních situací, tzn. standard pro strukturu informací, které občané hledají. Z naší zkušenosti víme, že nejde o řešení vedoucí k nejrychlejšímu nalezení požadované informace. Situaci navíc ztěžoval fakt, že jednotlivé životní situace se po prokliku zobrazují pod viditelnou částí stránky a nic nenasvědčuje změně obsahu na stránce. Uživatelé byli zmatení, protože si mysleli, že odkazy v mřížce nefungují.
+
+* Důležité informace prezentované pouze v PDF formátu.
+
+Naši dobrovolníci byli chytří a vzdělaní lidé, kteří jsou zvyklí používat počítač denně, a přesto na novém webu Brna-střed naráželi na komplikace. Nemůžeme tvrdit, že jde o jejich neschopnost. Lidé se nemají přizpůsobovat technice, ale technika se má řídit potřebami lidí. Designér by měl znát alespoň rámcově uživatele toho, co navrhuje. Alespoň to tvrdí specialisté na human centred a UX design, a toto stanovisko zastáváme i my, lidé z projektu Přístupnější stát.
+
+<strong>Víte o webu, kterému by testování také prospělo? [Dejte nám  tip, anebo se k nám rovnou připojte!][pristupnejsik] </strong>
